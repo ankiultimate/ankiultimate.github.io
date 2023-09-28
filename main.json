@@ -1,62 +1,62 @@
 {
-  "version": "4.14.0",
+  "version": "4.14.1",
   "isLatest": true,
   "platforms": [
     {
       "files": [
         {
           "file": "card_previewer.so",
-          "hash": "88408589b9888b74b3f1f3c3b486d583",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/card_previewer.so",
+          "hash": "47d71c4dafcb78f5dfd352dae1673e1e",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/card_previewer.so",
           "size": "119.61KB"
         },
         {
           "file": "image.so",
-          "hash": "1f42b23a50b8b4d896ade84313ba8644",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/image.so",
+          "hash": "d79512ffa8e06d2a37cb1bdc484a7737",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/image.so",
           "size": "204.98KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "439810a6d53d39cf0a2130044e18d1aa",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/image_cover.so",
+          "hash": "5e0b15494a8c63d613eb247c06edb97c",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/image_cover.so",
           "size": "98.78KB"
         },
         {
           "file": "png.so",
-          "hash": "dafb7ab9238c4c6a732903dc2a763db0",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/png.so",
+          "hash": "7fc06922d1a9de24cfc56bc329e87c2f",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/png.so",
           "size": "664.10KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "2af8d0975f263681fab8f5236d3a1617",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/pyaes.so",
+          "hash": "8436e494021409e1c61beaad52d71872",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/pyaes.so",
           "size": "441.52KB"
         },
         {
           "file": "root.so",
-          "hash": "25079074af7b81634067a80a50284ce2",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/root.so",
+          "hash": "b06d9590b3243a59f819df5d3d5e3876",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/root.so",
           "size": "587.01KB"
         },
         {
           "file": "selection.so",
-          "hash": "6b14945bf06ffbf3b906d49216854698",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/selection.so",
+          "hash": "b664ab6b78d14a7e4f4da32be53dde68",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/selection.so",
           "size": "152.05KB"
         },
         {
           "file": "translate.so",
-          "hash": "9dad7e2da8358e8c06eb1a29fc909687",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/translate.so",
+          "hash": "0ed3bda68b212279543f2655ddee6916",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/translate.so",
           "size": "129.47KB"
         },
         {
           "file": "util.so",
-          "hash": "49a7cbc491dd5778b53331cc9309f746",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinArm6439/util.so",
-          "size": "208.12KB"
+          "hash": "ddbcd38c50e9b63c80000b03fc41c39e",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinArm6439/util.so",
+          "size": "208.27KB"
         }
       ],
       "identify": "39-Darwin-arm64",
@@ -66,57 +66,57 @@
       "files": [
         {
           "file": "card_previewer.so",
-          "hash": "f8f910080839ef2e54b1115cf5b70c00",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/card_previewer.so",
+          "hash": "316b11a5a5c5ba46c7dee346011772f1",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/card_previewer.so",
           "size": "129.38KB"
         },
         {
           "file": "image.so",
-          "hash": "36b8a36819e434e330303604a81e5449",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/image.so",
+          "hash": "bc032a82f4db50ed62f5b62b720e0e9c",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/image.so",
           "size": "215.80KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "dc764231039b437820056af94f4b7fb0",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/image_cover.so",
+          "hash": "aa35becfa70bc88d05035e93765a1de0",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/image_cover.so",
           "size": "105.97KB"
         },
         {
           "file": "png.so",
-          "hash": "455e9c8af0443dfdeb75381be8e92c7a",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/png.so",
+          "hash": "080a09e72e54dfe03b264ebfb9b2559f",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/png.so",
           "size": "816.95KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "9e8a5c899cb1af17daec333d5f69e63a",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/pyaes.so",
+          "hash": "0eeb23aadebc5c4c95ceeafb49194fa3",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/pyaes.so",
           "size": "484.64KB"
         },
         {
           "file": "root.so",
-          "hash": "600c1231cddb583c0fcdfa0b3e22c550",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/root.so",
+          "hash": "34e9af595f88d4a44bceb3bcbfb1d76a",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/root.so",
           "size": "828.77KB"
         },
         {
           "file": "selection.so",
-          "hash": "d07a8b135d6c447575aebb778c46d75a",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/selection.so",
+          "hash": "1b826e9a9158c220303d3f9cc6a12245",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/selection.so",
           "size": "162.66KB"
         },
         {
           "file": "translate.so",
-          "hash": "509afc31d013013fb69424f8e485266d",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/translate.so",
+          "hash": "fdfa7a2e878b8ec307b63302e4d3531b",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/translate.so",
           "size": "139.68KB"
         },
         {
           "file": "util.so",
-          "hash": "9dd8f80f77ed64aa993d2bc7a2c6c868",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6438/util.so",
-          "size": "252.12KB"
+          "hash": "39c4418e1441d8b26d561e0ca7f6f710",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6438/util.so",
+          "size": "252.37KB"
         }
       ],
       "identify": "38-Darwin-x86_64",
@@ -126,57 +126,57 @@
       "files": [
         {
           "file": "card_previewer.so",
-          "hash": "d54a0424f2f4b679dd12c9cb75467b97",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/card_previewer.so",
+          "hash": "07ccd4dfda5bd1d60b4d51db0578d635",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/card_previewer.so",
           "size": "128.98KB"
         },
         {
           "file": "image.so",
-          "hash": "9c77522e7da45984ded735dd7b439935",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/image.so",
+          "hash": "7f549f3319a46f1827224977d8ca89eb",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/image.so",
           "size": "231.61KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "74d33cf6be1df6c24da5860bf3ce101a",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/image_cover.so",
+          "hash": "69c9033dca084dcd2edf1aeb416e929f",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/image_cover.so",
           "size": "105.79KB"
         },
         {
           "file": "png.so",
-          "hash": "5095f2f3f4103250fdf00d9dcd278607",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/png.so",
+          "hash": "7f34e8ba566f6b67bc013d68cd5a742e",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/png.so",
           "size": "816.41KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "a1b1c4f92599d38ee5620cdc3d9507b0",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/pyaes.so",
+          "hash": "099bd105d074353a4d25184febf5e572",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/pyaes.so",
           "size": "484.13KB"
         },
         {
           "file": "root.so",
-          "hash": "b2810363a9844e36d108817218b8ae68",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/root.so",
+          "hash": "4a4e4bdc69e4573c98d28338ae2e6e9a",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/root.so",
           "size": "828.66KB"
         },
         {
           "file": "selection.so",
-          "hash": "8c5669ab3322968454a29c25530bddb7",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/selection.so",
+          "hash": "06857551c21130558cdee7f36ef67203",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/selection.so",
           "size": "178.39KB"
         },
         {
           "file": "translate.so",
-          "hash": "e3060780631996f6d3397f946ab1d0de",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/translate.so",
+          "hash": "486f1c2dfddd0d68d57cf8e3b428c372",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/translate.so",
           "size": "139.63KB"
         },
         {
           "file": "util.so",
-          "hash": "6f4a77d974daaf034e6b5fae3fcc805b",
-          "url": "https://ankiultimate.github.io/4.14.0/DarwinX6439/util.so",
-          "size": "251.94KB"
+          "hash": "6bfea1667b0d740f4808ed3101be597f",
+          "url": "https://ankiultimate.github.io/4.14.1/DarwinX6439/util.so",
+          "size": "252.16KB"
         }
       ],
       "identify": "39-Darwin-x86_64",
@@ -187,56 +187,56 @@
         {
           "file": "card_previewer.so",
           "hash": "7353abdc03708c734a8e7a79be6a6666",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/card_previewer.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/card_previewer.so",
           "size": "573.57KB"
         },
         {
           "file": "image.so",
           "hash": "0d63d4558fb327b4d2472a0695a55b89",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/image.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/image.so",
           "size": "1295.43KB"
         },
         {
           "file": "image_cover.so",
           "hash": "890d7a5e4e824418ccc5b300e488bc99",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/image_cover.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/image_cover.so",
           "size": "349.82KB"
         },
         {
           "file": "png.so",
           "hash": "53b2285f5d13ae2b3b96d7186ecdcb86",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/png.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/png.so",
           "size": "4555.46KB"
         },
         {
           "file": "pyaes.so",
           "hash": "c43352222b5b5dfefe3da19cae8e7550",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/pyaes.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/pyaes.so",
           "size": "3135.95KB"
         },
         {
           "file": "root.so",
-          "hash": "30a9296c019e68540c7ecd3da9f2b436",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/root.so",
+          "hash": "a0fb3112f657237bf16fa14e4fac4dc4",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/root.so",
           "size": "4087.95KB"
         },
         {
           "file": "selection.so",
           "hash": "09d063cebc6e5f9e4f36b77a1e327765",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/selection.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/selection.so",
           "size": "778.42KB"
         },
         {
           "file": "translate.so",
           "hash": "a5a3f66637790fa201823dc235b7a20b",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/translate.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/translate.so",
           "size": "304.75KB"
         },
         {
           "file": "util.so",
-          "hash": "92798fefa10c75619478828c4f6b21cc",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX64311/util.so",
-          "size": "1142.37KB"
+          "hash": "0dd7ea8f7eb4130e190c1c312f2559fd",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX64311/util.so",
+          "size": "1168.42KB"
         }
       ],
       "identify": "311-Linux-x86_64",
@@ -247,56 +247,56 @@
         {
           "file": "card_previewer.so",
           "hash": "468ff0a7c1205c2b2f4f13d6489bde3b",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/card_previewer.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/card_previewer.so",
           "size": "481.25KB"
         },
         {
           "file": "image.so",
           "hash": "dbaf5d16f2fa944d39db9ef9573e01c8",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/image.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/image.so",
           "size": "1186.19KB"
         },
         {
           "file": "image_cover.so",
           "hash": "7c22f8eb8e0cc32782fcd0c76a0b9f57",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/image_cover.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/image_cover.so",
           "size": "343.94KB"
         },
         {
           "file": "png.so",
           "hash": "a08d6d6458eaf9048c89f05cc9ecf36c",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/png.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/png.so",
           "size": "4256.07KB"
         },
         {
           "file": "pyaes.so",
           "hash": "178684a4af161c7c5894e01ea5817ccd",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/pyaes.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/pyaes.so",
           "size": "2290.30KB"
         },
         {
           "file": "root.so",
-          "hash": "f6a32cc31e803e6e76f936512bfa2479",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/root.so",
+          "hash": "30586ece23e66e99e6a3cb487ea595e1",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/root.so",
           "size": "4055.52KB"
         },
         {
           "file": "selection.so",
           "hash": "933ee26a012cbc7c7b723a058e7793b6",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/selection.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/selection.so",
           "size": "754.34KB"
         },
         {
           "file": "translate.so",
           "hash": "40aca027082c06781a481d569f041b02",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/translate.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/translate.so",
           "size": "293.65KB"
         },
         {
           "file": "util.so",
-          "hash": "c0004cb22368cd0ecabab4614ea95ffc",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6438/util.so",
-          "size": "1150.89KB"
+          "hash": "443fc68121fd60e5aa9f53405282af57",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6438/util.so",
+          "size": "1172.62KB"
         }
       ],
       "identify": "38-Linux-x86_64",
@@ -307,56 +307,56 @@
         {
           "file": "card_previewer.so",
           "hash": "5ae4ff73450916a8ec1df64e6402168b",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/card_previewer.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/card_previewer.so",
           "size": "522.02KB"
         },
         {
           "file": "image.so",
           "hash": "64c88b7b85463462ad81d07ee8e9903e",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/image.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/image.so",
           "size": "1132.16KB"
         },
         {
           "file": "image_cover.so",
           "hash": "7b2ba1c14dacdd4f75ba8d306d9d3fa6",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/image_cover.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/image_cover.so",
           "size": "328.27KB"
         },
         {
           "file": "png.so",
           "hash": "533ffcf20fe3606ff0d133d366087869",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/png.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/png.so",
           "size": "4011.97KB"
         },
         {
           "file": "pyaes.so",
           "hash": "066e4a318b59689df8808f22a5f19fd8",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/pyaes.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/pyaes.so",
           "size": "2211.90KB"
         },
         {
           "file": "root.so",
-          "hash": "d51be7fd78f435a6f6024b81535cf178",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/root.so",
+          "hash": "f4cbba2ed34a682c0a5d127cbf1c16f2",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/root.so",
           "size": "3656.65KB"
         },
         {
           "file": "selection.so",
           "hash": "c79be99c1b98b1bcb885ec61e6516791",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/selection.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/selection.so",
           "size": "692.86KB"
         },
         {
           "file": "translate.so",
           "hash": "3fa69f72adaaff1195b4c70a7ffe082d",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/translate.so",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/translate.so",
           "size": "288.76KB"
         },
         {
           "file": "util.so",
-          "hash": "09c846e1810d6037f845d693bc61240f",
-          "url": "https://ankiultimate.github.io/4.14.0/LinuxX6439/util.so",
-          "size": "1048.67KB"
+          "hash": "256548f1063766755b4427f8b9469e11",
+          "url": "https://ankiultimate.github.io/4.14.1/LinuxX6439/util.so",
+          "size": "1066.64KB"
         }
       ],
       "identify": "39-Linux-x86_64",
@@ -366,57 +366,57 @@
       "files": [
         {
           "file": "card_previewer.pyd",
-          "hash": "fa7d4f151bfd0ecff838935b6fe312c9",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/card_previewer.pyd",
+          "hash": "72e9a4fd4260adf33056198325877860",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/card_previewer.pyd",
           "size": "87.50KB"
         },
         {
           "file": "image.pyd",
-          "hash": "9e83ceba8d2fc4d3e35eb91fcece3d1b",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/image.pyd",
+          "hash": "3e0255f4e0e3c7e4bca13e66c953efd0",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/image.pyd",
           "size": "156.50KB"
         },
         {
           "file": "image_cover.pyd",
-          "hash": "d647bd941b75a530bfbd95aa30e93be6",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/image_cover.pyd",
+          "hash": "1bc7b15365c5f250449eaebd55e00c2e",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/image_cover.pyd",
           "size": "65.00KB"
         },
         {
           "file": "png.pyd",
-          "hash": "ba8d0c30916b7099b34aedffbd5ded4b",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/png.pyd",
+          "hash": "56e67ef6334f435b6028dca37049b48b",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/png.pyd",
           "size": "554.50KB"
         },
         {
           "file": "pyaes.pyd",
-          "hash": "31c7c5d1bb6362f65c309d424781d3f5",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/pyaes.pyd",
+          "hash": "a260e30d907ce9e7226c9053e47837a3",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/pyaes.pyd",
           "size": "457.00KB"
         },
         {
           "file": "root.pyd",
-          "hash": "932f4e18b6700fa3231c009e141cd60c",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/root.pyd",
+          "hash": "8173e6663ed775a1fa787c69a9a41148",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/root.pyd",
           "size": "523.50KB"
         },
         {
           "file": "selection.pyd",
-          "hash": "ee6f482258142cb1a098fbc01e3a8d6d",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/selection.pyd",
+          "hash": "2c0bc71d896218a2ac76a1ab651c94a8",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/selection.pyd",
           "size": "111.00KB"
         },
         {
           "file": "translate.pyd",
-          "hash": "f6a8a4dcd7ea632fa999c9ea3cfea030",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/translate.pyd",
+          "hash": "ba7b0705f35573fbfe6ee3b8d8442361",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/translate.pyd",
           "size": "87.00KB"
         },
         {
           "file": "util.pyd",
-          "hash": "d47ccecba62ab491b1175504815060ae",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6438/util.pyd",
-          "size": "166.00KB"
+          "hash": "847f01ae409511e089cdfbade0e1cad1",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6438/util.pyd",
+          "size": "168.00KB"
         }
       ],
       "identify": "38-Windows-AMD64",
@@ -426,57 +426,57 @@
       "files": [
         {
           "file": "card_previewer.pyd",
-          "hash": "b9375ac6c5009db9f9cefc0da9071a97",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/card_previewer.pyd",
+          "hash": "7687e86ec51f8320a2da901492757108",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/card_previewer.pyd",
           "size": "87.50KB"
         },
         {
           "file": "image.pyd",
-          "hash": "7d1457600937f5456bda73175e06ed6e",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/image.pyd",
+          "hash": "66ae3ad31522759af06f821725591018",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/image.pyd",
           "size": "157.00KB"
         },
         {
           "file": "image_cover.pyd",
-          "hash": "63714949c1a20a2765c496e02ddaa2ec",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/image_cover.pyd",
+          "hash": "b074b55b0de28e31ca3d56a8717aaef1",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/image_cover.pyd",
           "size": "65.00KB"
         },
         {
           "file": "png.pyd",
-          "hash": "eda25a1a8a6a6daf27907cb55ee6b326",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/png.pyd",
+          "hash": "33c311ecedf17ea2a7ebb0e7c26eedda",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/png.pyd",
           "size": "548.50KB"
         },
         {
           "file": "pyaes.pyd",
-          "hash": "024398625ae2298f9816b9d38a1ae54b",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/pyaes.pyd",
+          "hash": "f8ff037520aa21ce035d6fce609ec672",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/pyaes.pyd",
           "size": "455.50KB"
         },
         {
           "file": "root.pyd",
-          "hash": "840e37aa20fdc745f420a0a1b09a4aec",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/root.pyd",
+          "hash": "7c07b4eb6cb933eed2da6702a530bf5b",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/root.pyd",
           "size": "516.50KB"
         },
         {
           "file": "selection.pyd",
-          "hash": "760154fa8b4adc4ecfb49a1a76776705",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/selection.pyd",
+          "hash": "f7007dc44883ac456cf3ce7f053919e1",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/selection.pyd",
           "size": "111.50KB"
         },
         {
           "file": "translate.pyd",
-          "hash": "5511b2947085d75413859c72dad70c4a",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/translate.pyd",
+          "hash": "b742740939efb6b17f5cdf356a4f923e",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/translate.pyd",
           "size": "87.00KB"
         },
         {
           "file": "util.pyd",
-          "hash": "bee56f78369301d7bd8a1cdba3273e24",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsAMD6439/util.pyd",
-          "size": "166.00KB"
+          "hash": "7ae454948ed4da56e4bf8ea27128e336",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsAMD6439/util.pyd",
+          "size": "168.00KB"
         }
       ],
       "identify": "39-Windows-AMD64",
@@ -486,57 +486,57 @@
       "files": [
         {
           "file": "card_previewer.pyd",
-          "hash": "ad67a88379e31eb4bbf4285931b87afd",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/card_previewer.pyd",
+          "hash": "0bd45d5fd6d0074c30934976147c89da",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/card_previewer.pyd",
           "size": "74.00KB"
         },
         {
           "file": "image.pyd",
-          "hash": "38a5f4ee89c0aa4836f080075d06c24d",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/image.pyd",
+          "hash": "7b424be2e056d1e57b03c4e3b812c7d3",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/image.pyd",
           "size": "138.50KB"
         },
         {
           "file": "image_cover.pyd",
-          "hash": "5d9f18cb80016f34da6579afaba2f975",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/image_cover.pyd",
+          "hash": "a5ba77410896a3b1e9c46b2e1f0ede5b",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/image_cover.pyd",
           "size": "53.00KB"
         },
         {
           "file": "png.pyd",
-          "hash": "25b44ce03f7095abfeba72bd646fc576",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/png.pyd",
+          "hash": "02a0eb768c5ce680e44efa2ba69ee9ee",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/png.pyd",
           "size": "488.50KB"
         },
         {
           "file": "pyaes.pyd",
-          "hash": "f3433e6d236d78f66c2f63919f81e572",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/pyaes.pyd",
+          "hash": "17c6ffbcb3d8e0fb113d856f5c9af09c",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/pyaes.pyd",
           "size": "411.00KB"
         },
         {
           "file": "root.pyd",
-          "hash": "9470dd49d2ff96dffd82527efcaf4ca3",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/root.pyd",
+          "hash": "415d6b39b309ebbe2eace19960969941",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/root.pyd",
           "size": "462.50KB"
         },
         {
           "file": "selection.pyd",
-          "hash": "17cbd1e8cce0b81e17a72e63fe4773c2",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/selection.pyd",
+          "hash": "f32308d9e5a1d5f1404d7ea0900e4311",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/selection.pyd",
           "size": "94.50KB"
         },
         {
           "file": "translate.pyd",
-          "hash": "35c20f27af8c2f4724de912e3173a5fd",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/translate.pyd",
+          "hash": "43be0b5a7bcda34e9f9241d62d454699",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/translate.pyd",
           "size": "76.00KB"
         },
         {
           "file": "util.pyd",
-          "hash": "345bd4f825f56434b0dcad1b47236c0e",
-          "url": "https://ankiultimate.github.io/4.14.0/WindowsX8638/util.pyd",
-          "size": "143.00KB"
+          "hash": "2904458044d9d6c15a2ce7fe4d5fdb5e",
+          "url": "https://ankiultimate.github.io/4.14.1/WindowsX8638/util.pyd",
+          "size": "145.00KB"
         }
       ],
       "identify": "38-Windows-x86",
@@ -568,19 +568,19 @@
       {
         "file": "config.json",
         "hash": "45bb725d7ad27601bfc000577fc62faa",
-        "url": "https://ankiultimate.github.io/4.14.0/root-global/config.json",
+        "url": "https://ankiultimate.github.io/4.14.1/root-global/config.json",
         "size": "0.76KB"
       },
       {
         "file": "config.md",
         "hash": "45bc521b4222265512aa05fabf2d9b2e",
-        "url": "https://ankiultimate.github.io/4.14.0/root-global/config.md",
+        "url": "https://ankiultimate.github.io/4.14.1/root-global/config.md",
         "size": "0.03KB"
       },
       {
         "file": "manifest.json",
         "hash": "a82605e78df8905985bdf7b7e59319a1",
-        "url": "https://ankiultimate.github.io/4.14.0/root-global/manifest.json",
+        "url": "https://ankiultimate.github.io/4.14.1/root-global/manifest.json",
         "size": "0.20KB"
       }
     ],
