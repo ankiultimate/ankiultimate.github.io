@@ -1,0 +1,41 @@
+{
+  "action": {
+    "cloze": {
+      "name": "onAutoAnswerCloze",
+      "hotkey": "Ctrl+Shift+X",
+      "tooltip": "Auto Answer Cloze"
+    },
+    "selection": {
+      "name": "onSelectionParse",
+      "hotkey": "Ctrl+Shift+B",
+      "tooltip": "Parse Clipboard as Selection"
+    },
+    "imageCover": {
+      "name": "onImageCover",
+      "hotkey": "Ctrl+Shift+C",
+      "tooltip": "Auto cover high-light regions (Beta)"
+    },
+    "simpleQuestion": {
+      "name": "onSimpleQuestion",
+      "tooltip": "Parse simple question"
+    }
+  },
+  "autoTags": "",
+  "license": "",
+  "functions": {
+    "idAutoIncrease": true,
+    "overrideShortCuts": true,
+    "autoSyncServer": true,
+    "directPreviewForNewNote": true
+  },
+  "quickSelection": {
+    "optionCase": 1,
+    "answerLinePrefix": "答案"
+  },
+  "imageCover": {
+    "coverCase": 1
+  },
+  "textCloze": {
+    "clozeCase": 1
+  }
+}
