@@ -899,6 +899,11 @@
       "size": "1.52KB"
     }
   ],
+  "vendors": {
+    "url": "https://ankiultimate.github.io/5.0.0/vendors.zip",
+    "size": "776.97KB",
+    "hash": "7389f3a58427397c1b5fc554ae1786a7"
+  },
   "mainEntry": {
     "files": [
       {
