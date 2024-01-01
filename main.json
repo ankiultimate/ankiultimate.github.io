@@ -185,58 +185,106 @@
     {
       "files": [
         {
+          "file": "ComboCheckBox.so",
+          "hash": "872485d5ce7f2edf7f0066dd06466c82",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/ComboCheckBox.so",
+          "size": "637.94KB"
+        },
+        {
+          "file": "bulk_service.so",
+          "hash": "3a0edf2e01a51da2f6d96557fa492627",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/bulk_service.so",
+          "size": "581.15KB"
+        },
+        {
           "file": "card_previewer.so",
-          "hash": "9f450f00793f62cae42663a689467ec3",
+          "hash": "9e54e602529dbffd24d5ff5b2d67db79",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/card_previewer.so",
-          "size": "577.95KB"
+          "size": "577.38KB"
+        },
+        {
+          "file": "cloze.so",
+          "hash": "13a3a77f4a4da5c0a6825214fe242dfd",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/cloze.so",
+          "size": "401.41KB"
+        },
+        {
+          "file": "excel.so",
+          "hash": "eae4a1e60691f163b344f13c6eae301b",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/excel.so",
+          "size": "491.21KB"
+        },
+        {
+          "file": "gui_base.so",
+          "hash": "52a55a1b833e7ef03392595dba0050b9",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/gui_base.so",
+          "size": "1039.88KB"
+        },
+        {
+          "file": "gui_cloze.so",
+          "hash": "c019c56411b717fd8fb1b994d7f3da0e",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/gui_cloze.so",
+          "size": "559.99KB"
+        },
+        {
+          "file": "gui_excel.so",
+          "hash": "c8afc18a0fa1cc13d48773ec634c5c8b",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/gui_excel.so",
+          "size": "943.37KB"
+        },
+        {
+          "file": "gui_select.so",
+          "hash": "bf5ea91de700c2de08f79ce992238f38",
+          "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/gui_select.so",
+          "size": "629.03KB"
         },
         {
           "file": "image.so",
-          "hash": "51fd8131aafe807668457e22e691eb77",
+          "hash": "3d910416b8745b7f68feb18b0ef622e7",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/image.so",
           "size": "1296.67KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "d14b23bf473435f3959ef822ad17d87c",
+          "hash": "5bffabf5dc5837ed6193ba8b56a42bb0",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/image_cover.so",
           "size": "369.51KB"
         },
         {
           "file": "png.so",
-          "hash": "de82e4eac2e13057fee53c4b545871d4",
+          "hash": "4c0c80f455fa526adc9db2002ad47da5",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/png.so",
           "size": "4360.09KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "bc38b9812927ef148d5c661eb894939d",
+          "hash": "4b17092d210d70be6c05830e6fa3184a",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/pyaes.so",
           "size": "3075.52KB"
         },
         {
           "file": "root.so",
-          "hash": "9af03f625a8331751550c6db0025a2c2",
+          "hash": "6df821ff3e3895bafbdaa6f4a751934a",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/root.so",
-          "size": "4125.41KB"
+          "size": "4207.42KB"
         },
         {
           "file": "selection.so",
-          "hash": "03aeb8aaa0f4abb2bc7ca07b2c030be0",
+          "hash": "366574f4d921ab7c77a05635d702dc83",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/selection.so",
-          "size": "793.06KB"
+          "size": "1089.94KB"
         },
         {
           "file": "translate.so",
-          "hash": "ce05f7378baaedd1a3e41531461de4a9",
+          "hash": "6e169232fadd039e028f9ea5236a0e10",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/translate.so",
-          "size": "304.62KB"
+          "size": "345.90KB"
         },
         {
           "file": "util.so",
-          "hash": "7778a277dc3bb4715c55a9a97eb014e5",
+          "hash": "793520654ba95ba6ae1e26cab9228d22",
           "url": "https://ankiultimate.github.io/4.15.4/LinuxX64311/util.so",
-          "size": "1413.70KB"
+          "size": "1551.41KB"
         }
       ],
       "identify": "311-Linux-x86_64",
@@ -575,6 +623,11 @@
       "size": "1.52KB"
     }
   ],
+  "vendors": {
+    "url": "https://ankiultimate.github.io/4.15.4/vendors.zip",
+    "size": "776.97KB",
+    "hash": "493c85345afeb4bc262b8f2582bf57af"
+  },
   "mainEntry": {
     "files": [
       {
