@@ -6,6 +6,66 @@
       "files": [
         {
           "file": "card_previewer.so",
+          "hash": "0d2a96c210c67056494fa434f475466f",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/card_previewer.so",
+          "size": "119.59KB"
+        },
+        {
+          "file": "image.so",
+          "hash": "d9621356239045fb2164e7d653ccfd68",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/image.so",
+          "size": "204.96KB"
+        },
+        {
+          "file": "image_cover.so",
+          "hash": "bf34a709507108a1f2d3bbcd32ef128a",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/image_cover.so",
+          "size": "98.77KB"
+        },
+        {
+          "file": "png.so",
+          "hash": "031e9a7a81e1b425aaebdbb0911cb83b",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/png.so",
+          "size": "664.09KB"
+        },
+        {
+          "file": "pyaes.so",
+          "hash": "81bb2058cba8b094aaf9a88b8acae079",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/pyaes.so",
+          "size": "441.51KB"
+        },
+        {
+          "file": "root.so",
+          "hash": "c95198c11e044121c2150a480684539d",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/root.so",
+          "size": "605.15KB"
+        },
+        {
+          "file": "selection.so",
+          "hash": "2f89f333717e6ce3ea8d66ea0bbb733d",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/selection.so",
+          "size": "152.03KB"
+        },
+        {
+          "file": "translate.so",
+          "hash": "fbf8833e890d795ea54f049e2a140c79",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/translate.so",
+          "size": "129.64KB"
+        },
+        {
+          "file": "util.so",
+          "hash": "70fe75b50ee99628813b6ff528ad18b7",
+          "url": "https://ankiultimate.github.io/4.16.1/DarwinArm6439/util.so",
+          "size": "243.38KB"
+        }
+      ],
+      "identify": "39-Darwin-arm64",
+      "baseFolder": "DarwinArm6439"
+    },
+    {
+      "files": [
+        {
+          "file": "card_previewer.so",
           "hash": "10f694e1711c65deb8130730d9fb2552",
           "url": "https://ankiultimate.github.io/4.16.1/DarwinX6438/card_previewer.so",
           "size": "129.38KB"
@@ -518,7 +578,7 @@
   "vendors": {
     "url": "https://ankiultimate.github.io/4.16.1/vendors.zip",
     "size": "373.11KB",
-    "hash": "d65ce2c2d3921a61ddf555684d74042e"
+    "hash": "56c7f80e4ce6833e1243d3267b6b1cf7"
   },
   "mainEntry": {
     "files": [
