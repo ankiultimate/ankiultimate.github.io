@@ -88,8 +88,8 @@ def compare_and_download_vendors(base_folder, vendor):
     md5_file = os.path.join(base_folder, "vendors.md5")
     wanted_hash = vendor['hash']
     if os.path.exists(md5_file):
-        with open(md5_file, 'rb') as file:
-            content = file.read()
+        with open(md5_file, 'r') as file:
+            content = file.read().rstrip()
         if content != wanted_hash:
             download_and_unzip(base_folder, vendor['url'], wanted_hash)
     else:
