@@ -6,127 +6,133 @@
       "files": [
         {
           "file": "ComboCheckBox.so",
-          "hash": "552ed9bb863961f9fc25f4926355a6c4",
+          "hash": "f7de3f6a49fe22671e2f7c4a406e3570",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/ComboCheckBox.so",
           "size": "117.83KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "be5e20f40ac4bf9cbf71973d2fac46cf",
+          "hash": "0809fbaa8a8cc5020957b622a373f91d",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/batch_cloze.so",
           "size": "97.91KB"
         },
         {
           "file": "batch_excel.so",
-          "hash": "c85f116e7e102d388b47ea646f921f52",
+          "hash": "ea15ca33de2fd4c6a8c040e779e10c41",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/batch_excel.so",
           "size": "99.11KB"
         },
         {
           "file": "batch_judge.so",
-          "hash": "8b75abb07d3de2bb8392780b1e981d3a",
+          "hash": "90b6b386ce39701c36c2cf1c0909eb58",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/batch_judge.so",
           "size": "96.88KB"
         },
         {
           "file": "batch_selection.so",
-          "hash": "4b5f6a5c28e041f1156469f35eb3c094",
+          "hash": "e117cc77451e57f9775c50d710f4e8d7",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/batch_selection.so",
           "size": "152.87KB"
         },
         {
           "file": "batch_simple.so",
-          "hash": "2b9f87aaa800e2f9d44c76add3c6f5b7",
+          "hash": "cac9994e1274c07806697e1363752bdc",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/batch_simple.so",
           "size": "96.88KB"
         },
         {
           "file": "batch_utils.so",
-          "hash": "beca74996aea7dfcddf3258e6e388198",
+          "hash": "f55d07b448d06e4746a2bda09cbeece8",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/batch_utils.so",
           "size": "115.88KB"
         },
         {
           "file": "bulk_service.so",
-          "hash": "e02713e1fba1c987e58a6df061917679",
+          "hash": "1ee93440417f7a9b0f3b3a004a15140e",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/bulk_service.so",
           "size": "116.31KB"
         },
         {
           "file": "card_previewer.so",
-          "hash": "677f6642de6bbf6f4175f1999e088807",
+          "hash": "f7eff11858c001dafa813b3304ad573f",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/card_previewer.so",
           "size": "119.86KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "5454c780912ba8db58aed52407f8aa4c",
+          "hash": "ea03f8e3fac7fd4db22399a55cd8c9d3",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/gui_base.so",
           "size": "188.86KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "da1cfb066ef8c1a1b87a73a0155fca21",
+          "hash": "fdc8170191963481f6fff26d80705cd5",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/gui_cloze.so",
           "size": "116.95KB"
         },
         {
           "file": "gui_excel.so",
-          "hash": "bb8b4141bce612976b0ae9f33ff66ca2",
+          "hash": "5844d443cd9e22812950056fe1b23888",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/gui_excel.so",
           "size": "170.70KB"
         },
         {
           "file": "gui_judge.so",
-          "hash": "adb6650592ca5d245b42edfb2532d0a0",
+          "hash": "4f3acf9862e899b2705c9cff2b0256ce",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/gui_judge.so",
           "size": "98.86KB"
         },
         {
           "file": "gui_select.so",
-          "hash": "c8006ea120e417f1c653c28e7536c536",
+          "hash": "541f597174ef00f93320ba93ae0088fd",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/gui_select.so",
           "size": "133.92KB"
         },
         {
+          "file": "gui_simple.so",
+          "hash": "43fe5912144a21e7aa53b040f0adb961",
+          "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/gui_simple.so",
+          "size": "116.61KB"
+        },
+        {
           "file": "image.so",
-          "hash": "9c43608a7bcc439be5a98f889daa0887",
+          "hash": "7a942e0be04bc6224033ff360d9bd3ce",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/image.so",
           "size": "204.91KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "bf7af647306286d0b8c1c68cff24bb3d",
+          "hash": "d53bbfe57d035619d84afb525ec7010a",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/image_cover.so",
           "size": "98.70KB"
         },
         {
           "file": "png.so",
-          "hash": "f4bde8dc5fd910438d579f285d9c0299",
+          "hash": "4b5c82013b7a5fd11e44d9236cd8a9b4",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/png.so",
           "size": "664.02KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "566184647e1e4f1d5eb79d84d7da5051",
+          "hash": "b779dddebcb6f666a5f8d2d82f7f0723",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/pyaes.so",
           "size": "441.46KB"
         },
         {
           "file": "root.so",
-          "hash": "0834c3aa81ef52c301fd10a18aa72f3f",
+          "hash": "5fac897150e2c58690a83b7ee3814fec",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/root.so",
           "size": "623.15KB"
         },
         {
           "file": "translate.so",
-          "hash": "18bcb03e32a791d36ebfe30adaf99ae2",
+          "hash": "3e7c412b1719a1057775d0d54945f777",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/translate.so",
           "size": "154.61KB"
         },
         {
           "file": "util.so",
-          "hash": "7a45414548bde0548cdc9004b9e5835e",
+          "hash": "7e18862c4f6f3506930caa91ecbf58d6",
           "url": "https://ankiultimate.github.io/5.0.3/DarwinArm6439/util.so",
           "size": "245.04KB"
         }
@@ -1262,7 +1268,7 @@
   "vendors": {
     "url": "https://ankiultimate.github.io/5.0.3/vendors.zip",
     "size": "777.51KB",
-    "hash": "025f957b7909db5359f709d4110a6678"
+    "hash": "39ca2e72cb8c22d588be29dbe55281c2"
   },
   "mainEntry": {
     "files": [
