@@ -1,139 +1,139 @@
 {
-  "version": "5.0.5",
+  "version": "5.0.6",
   "isLatest": true,
   "platforms": [
     {
       "files": [
         {
           "file": "ComboCheckBox.so",
-          "hash": "680d093bfe1107bbdb496243b4457517",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/ComboCheckBox.so",
+          "hash": "615e2c9bffaccfd6f06204ed42213735",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/ComboCheckBox.so",
           "size": "117.83KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "475ae44127ec5dc132923e97087c538f",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/batch_cloze.so",
-          "size": "97.91KB"
+          "hash": "a71da26ddafa5de19eaba6f9431b1bc7",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/batch_cloze.so",
+          "size": "97.95KB"
         },
         {
           "file": "batch_excel.so",
-          "hash": "86e8d4362703f9daa52b52566c9c4008",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/batch_excel.so",
+          "hash": "c8e7e7d4bb1d1c262f7ce0b919e35939",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/batch_excel.so",
           "size": "99.11KB"
         },
         {
           "file": "batch_judge.so",
-          "hash": "0b3d1f75ff51b543dc842ec2d91e42a3",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/batch_judge.so",
+          "hash": "75b1c451cf3c385b64c33e1789fba23b",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/batch_judge.so",
           "size": "96.88KB"
         },
         {
           "file": "batch_selection.so",
-          "hash": "fdd869706e8691c710bf975628863e7e",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/batch_selection.so",
+          "hash": "66a23938e03e616c9b41cbace2e1e68f",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/batch_selection.so",
           "size": "152.87KB"
         },
         {
           "file": "batch_simple.so",
-          "hash": "b5d01f7e0d47bfe479e11973a7faf743",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/batch_simple.so",
+          "hash": "e242013e1b8d8d9ba8eff0730d59993b",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/batch_simple.so",
           "size": "96.88KB"
         },
         {
           "file": "batch_utils.so",
-          "hash": "f48bd55463c85c0ac5aca38884121026",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/batch_utils.so",
+          "hash": "38080064f749288d3ec7496a88b678c5",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/batch_utils.so",
           "size": "115.88KB"
         },
         {
           "file": "bulk_service.so",
-          "hash": "7183bbd9f7a18775715f95f55fb3f98f",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/bulk_service.so",
+          "hash": "91e66a2ea51ca14dbf2ef08540a1a643",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/bulk_service.so",
           "size": "116.31KB"
         },
         {
           "file": "card_previewer.so",
-          "hash": "dc067952f6b767b2ee9769bc752ddb3a",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/card_previewer.so",
+          "hash": "adbbbefce022b69c68fa6e3b37fa23cf",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/card_previewer.so",
           "size": "119.86KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "b209468d2c17be9e97cd25bb0eda5892",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/gui_base.so",
+          "hash": "dc11abc5f9f58d4145420a772e9c7ad2",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/gui_base.so",
           "size": "189.48KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "62b3f330c951770e51f84bcc384be93d",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/gui_cloze.so",
-          "size": "117.00KB"
+          "hash": "b76b39336ea2c444b6251a92c2e8c3cf",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/gui_cloze.so",
+          "size": "117.22KB"
         },
         {
           "file": "gui_excel.so",
-          "hash": "05b14bd95d685e59ce28b67aae75b65a",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/gui_excel.so",
+          "hash": "bb0af6e1d4b854ef5525ba7af1d7506d",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/gui_excel.so",
           "size": "171.02KB"
         },
         {
           "file": "gui_judge.so",
-          "hash": "90bc05c4d9857c55cf30239052d2f072",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/gui_judge.so",
+          "hash": "451bf7ba68e3bfaaf54cc91c62b69144",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/gui_judge.so",
           "size": "98.86KB"
         },
         {
           "file": "gui_select.so",
-          "hash": "d2d401d911a9dd751e683d9288c3bb36",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/gui_select.so",
+          "hash": "a8bf8d127812fa1ac11d29bd783a3eb3",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/gui_select.so",
           "size": "134.05KB"
         },
         {
           "file": "gui_simple.so",
-          "hash": "0c2009529b3c2ff5d9a8884188f1ce36",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/gui_simple.so",
+          "hash": "b22b6b09842b7f003927c4a9d375f433",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/gui_simple.so",
           "size": "116.61KB"
         },
         {
           "file": "image.so",
-          "hash": "59d34267529e523ec3965889d6d3a662",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/image.so",
+          "hash": "78fe25a8f4163ebe111f4c32888e631e",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/image.so",
           "size": "204.91KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "f784e48bf1efef4916ec36b43efeae9d",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/image_cover.so",
+          "hash": "a8247e81746471000bd686eaefc56de3",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/image_cover.so",
           "size": "98.70KB"
         },
         {
           "file": "png.so",
-          "hash": "f33534da25b6fd69c1c27a7dcf1b12f2",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/png.so",
+          "hash": "6b161d4cea7b1d1db63ece22934d57f4",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/png.so",
           "size": "664.02KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "e22c3f93d0f963d40f60dd932c90559f",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/pyaes.so",
+          "hash": "8e0581cfbfa321a78a91de5d8a0a371c",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/pyaes.so",
           "size": "441.46KB"
         },
         {
           "file": "root.so",
-          "hash": "dfe774b027a1ac3f6a18687c99677c4a",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/root.so",
+          "hash": "88240787ea5181c005520655ce6cd07e",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/root.so",
           "size": "622.90KB"
         },
         {
           "file": "translate.so",
-          "hash": "6ae474495a3781c2953fd705e800a8bf",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/translate.so",
+          "hash": "bcdf7ad9ea5a99c86fabe4d06779fa09",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/translate.so",
           "size": "154.80KB"
         },
         {
           "file": "util.so",
-          "hash": "daa9fb3085f00f7e316ec7b76f8ae847",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinArm6439/util.so",
+          "hash": "5804d045e1373e41452da15bd71030c7",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinArm6439/util.so",
           "size": "261.30KB"
         }
       ],
@@ -144,134 +144,134 @@
       "files": [
         {
           "file": "ComboCheckBox.so",
-          "hash": "3d148e3377fc12be0ae70d706e3a2a70",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/ComboCheckBox.so",
+          "hash": "69d5cdcbdaea2b2709214d067d0a87c5",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/ComboCheckBox.so",
           "size": "140.02KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "10763c116c9abeb44f6b93eb39c5fd2c",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/batch_cloze.so",
-          "size": "102.27KB"
+          "hash": "f16061670f941d462092fdf9c4968ff8",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/batch_cloze.so",
+          "size": "102.33KB"
         },
         {
           "file": "batch_excel.so",
-          "hash": "61272e88cf93c03fb13ced130fe61ff6",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/batch_excel.so",
+          "hash": "7899a35a85b30a4a5c66115b14784216",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/batch_excel.so",
           "size": "120.83KB"
         },
         {
           "file": "batch_judge.so",
-          "hash": "f54075f98f20e31dfd30c12d7dc34342",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/batch_judge.so",
+          "hash": "cbac4a2283ac36cf38753fe3bf2f1c66",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/batch_judge.so",
           "size": "100.95KB"
         },
         {
           "file": "batch_selection.so",
-          "hash": "d25b6bfa5ebc38868307c9c06a7c975d",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/batch_selection.so",
+          "hash": "18eb475d5a5a9f88dc084e203416cc36",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/batch_selection.so",
           "size": "184.04KB"
         },
         {
           "file": "batch_simple.so",
-          "hash": "c88526180e450b7326feae802e6eccb0",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/batch_simple.so",
+          "hash": "46a9edb2b4a34a4edbc00825d8df67b9",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/batch_simple.so",
           "size": "101.24KB"
         },
         {
           "file": "batch_utils.so",
-          "hash": "2c46e2c9a70c7ec893574f7e6ed42772",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/batch_utils.so",
+          "hash": "80a407958e59c42820dd72f7c6cd2065",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/batch_utils.so",
           "size": "123.45KB"
         },
         {
           "file": "bulk_service.so",
-          "hash": "d66f18aaf57c378badde9d8bee0c29ed",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/bulk_service.so",
+          "hash": "6a68b615c80363a0a8f81445559bd886",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/bulk_service.so",
           "size": "125.00KB"
         },
         {
           "file": "card_previewer.so",
-          "hash": "1644537c33c99614c29076e7416e676c",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/card_previewer.so",
+          "hash": "1d4ddc656118775b05df77130d0ac923",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/card_previewer.so",
           "size": "129.88KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "4a28cf847b39c659ac6bab3cc9ee522c",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/gui_base.so",
+          "hash": "c0d5c1295c3b41954d273426cd9a9d3e",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/gui_base.so",
           "size": "236.63KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "34a4f51c1abad8ac92b6a1d1ab506604",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/gui_cloze.so",
-          "size": "125.57KB"
+          "hash": "68a4d3736cbe69f75c8c91285dbbeb3e",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/gui_cloze.so",
+          "size": "125.84KB"
         },
         {
           "file": "gui_excel.so",
-          "hash": "8668498a265aee35e7ae15f6befe8b9d",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/gui_excel.so",
+          "hash": "8a0610347293bdee0e9450f0a0fc52f7",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/gui_excel.so",
           "size": "210.45KB"
         },
         {
           "file": "gui_judge.so",
-          "hash": "323256609fb8cfc1f225911b08012bac",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/gui_judge.so",
+          "hash": "c31525a05b55161844cc024f84bc3100",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/gui_judge.so",
           "size": "104.06KB"
         },
         {
           "file": "gui_select.so",
-          "hash": "76fff844c431e386f467a1cf5577439d",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/gui_select.so",
+          "hash": "b413bdc345b58703d823219a8fb6f7ae",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/gui_select.so",
           "size": "146.34KB"
         },
         {
           "file": "gui_simple.so",
-          "hash": "2e66461659caa3ff91e8dc0cb4ca8bee",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/gui_simple.so",
+          "hash": "80782fedbd065312ef71efe2d3aba1a5",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/gui_simple.so",
           "size": "125.12KB"
         },
         {
           "file": "image.so",
-          "hash": "c7e5cb0946407e40428b08e4d2c013e1",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/image.so",
+          "hash": "45a220edc8318040dcd2abd71e86b85d",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/image.so",
           "size": "215.74KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "9ded385f792417931f9ab5928d61353e",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/image_cover.so",
+          "hash": "6ca44eb9c2b72a6dc06346f9999146ab",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/image_cover.so",
           "size": "105.91KB"
         },
         {
           "file": "png.so",
-          "hash": "61acf1703938adc0b9e39fedf00c1058",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/png.so",
+          "hash": "b4bbb616d0e625d64148b810fc24c841",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/png.so",
           "size": "816.76KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "97614a771d9f7f390fec8ab7eb5bd089",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/pyaes.so",
+          "hash": "9fc78b65677cee3b90bc53177fbe5b2d",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/pyaes.so",
           "size": "484.45KB"
         },
         {
           "file": "root.so",
-          "hash": "2d36ad658fbcd05b1a59585bcd78799f",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/root.so",
+          "hash": "37f8321bf11eb11d1760eef679fe0bb6",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/root.so",
           "size": "876.30KB"
         },
         {
           "file": "translate.so",
-          "hash": "2f80e85cdb2b873d81b0457494bfa9da",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/translate.so",
+          "hash": "f3a31138de89f1b0d9357f8726dfd4c3",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/translate.so",
           "size": "185.27KB"
         },
         {
           "file": "util.so",
-          "hash": "2412ac1d3663b64c0bcea86cef2220eb",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6438/util.so",
+          "hash": "42701d034d52d312bdbcda87be1461d7",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6438/util.so",
           "size": "314.04KB"
         }
       ],
@@ -282,134 +282,134 @@
       "files": [
         {
           "file": "ComboCheckBox.so",
-          "hash": "173ad76133ceebbe3a0115685f250ee6",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/ComboCheckBox.so",
+          "hash": "eff0649d82a9b317193407ef8390b9f3",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/ComboCheckBox.so",
           "size": "139.84KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "23786786958f1f5091c6b177e0dc02b0",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/batch_cloze.so",
-          "size": "102.09KB"
+          "hash": "bc5f367d8c478d2c2d9a26e449fff8b5",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/batch_cloze.so",
+          "size": "102.16KB"
         },
         {
           "file": "batch_excel.so",
-          "hash": "4342889c2e99ebb92edf622d29854cf2",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/batch_excel.so",
+          "hash": "409ea7102a132ad0fb031b68ea27a061",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/batch_excel.so",
           "size": "120.66KB"
         },
         {
           "file": "batch_judge.so",
-          "hash": "936743edcc58eaea6c5d4d62448525c7",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/batch_judge.so",
+          "hash": "ed790c0525e90a193639836d6124ea66",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/batch_judge.so",
           "size": "100.77KB"
         },
         {
           "file": "batch_selection.so",
-          "hash": "528bb2e94a14f28970d184fdfb5dba10",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/batch_selection.so",
+          "hash": "50e907421408907416a77f2fbe921895",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/batch_selection.so",
           "size": "183.93KB"
         },
         {
           "file": "batch_simple.so",
-          "hash": "17f8f27e1babcf2a8fdf904f3a31c6f5",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/batch_simple.so",
+          "hash": "343cfa91fe490ad377e7b6bb0e74279a",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/batch_simple.so",
           "size": "101.06KB"
         },
         {
           "file": "batch_utils.so",
-          "hash": "cc9762b2c026cbd81d093904f2959e1b",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/batch_utils.so",
+          "hash": "b714402c47cae9f3e419db2488df941a",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/batch_utils.so",
           "size": "123.27KB"
         },
         {
           "file": "bulk_service.so",
-          "hash": "7f868c46017f9ec3ce9369ba98a72b21",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/bulk_service.so",
+          "hash": "c6024f417286af8c254dc7a9445ff2f8",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/bulk_service.so",
           "size": "124.70KB"
         },
         {
           "file": "card_previewer.so",
-          "hash": "d7252b29b9232b1f28dc4639c3cbfd6f",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/card_previewer.so",
+          "hash": "d6f254029169d7ba079e237ddd355a58",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/card_previewer.so",
           "size": "129.55KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "cf64eb62386b21b067a79cf77a40d37b",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/gui_base.so",
+          "hash": "06785a5f09a3f67ed974aff13900e313",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/gui_base.so",
           "size": "252.45KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "da032aec88d440b63ecfb352e9c4b4f8",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/gui_cloze.so",
-          "size": "125.41KB"
+          "hash": "521299aec557e5b3c654d0b9fc44ac80",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/gui_cloze.so",
+          "size": "125.67KB"
         },
         {
           "file": "gui_excel.so",
-          "hash": "3dd35bfb90b31de96832db94236ba016",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/gui_excel.so",
+          "hash": "42723e84b6025b69a14caf90a35822f0",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/gui_excel.so",
           "size": "210.27KB"
         },
         {
           "file": "gui_judge.so",
-          "hash": "1172b6b118a2041ca503c537be4a5ae7",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/gui_judge.so",
+          "hash": "159549b522408ac8014b2c35425c62b4",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/gui_judge.so",
           "size": "103.90KB"
         },
         {
           "file": "gui_select.so",
-          "hash": "8ec318b64e1ddf49c39a969ea5fe3e74",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/gui_select.so",
+          "hash": "d99d6acfa4d354b2a6f20248f17c266e",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/gui_select.so",
           "size": "146.16KB"
         },
         {
           "file": "gui_simple.so",
-          "hash": "6ea729158599c519c1337183bc2b42ce",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/gui_simple.so",
+          "hash": "4acd1274fef404883e54d59c6a9785d0",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/gui_simple.so",
           "size": "124.95KB"
         },
         {
           "file": "image.so",
-          "hash": "633078582357de4913acb8dc676cb7c1",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/image.so",
+          "hash": "1daf63ecad4c407e17c7ae78c6dd3880",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/image.so",
           "size": "215.57KB"
         },
         {
           "file": "image_cover.so",
-          "hash": "96d7ddbe4ecbe71fdd4a138708df9189",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/image_cover.so",
+          "hash": "ad15f701f07931751dcf248d64ae9e06",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/image_cover.so",
           "size": "105.75KB"
         },
         {
           "file": "png.so",
-          "hash": "4022eba7b58cd835696437e741f0b729",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/png.so",
+          "hash": "69486cbf47ecc9c267c517adfbfaee21",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/png.so",
           "size": "816.45KB"
         },
         {
           "file": "pyaes.so",
-          "hash": "6f622735eb7d13b3c10f145e60fcf594",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/pyaes.so",
+          "hash": "4438e3eab7d161c73272c4973a82c35d",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/pyaes.so",
           "size": "484.15KB"
         },
         {
           "file": "root.so",
-          "hash": "4d26f3e05ed227c73d8dd10c9bf33a00",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/root.so",
+          "hash": "e1919af95003fcc1ee556c2b9f248155",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/root.so",
           "size": "876.27KB"
         },
         {
           "file": "translate.so",
-          "hash": "0efb0c3b4994a9b1f91dde8bfb9faaaa",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/translate.so",
+          "hash": "b3db23612297346a87b90d7d72fe10e8",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/translate.so",
           "size": "185.09KB"
         },
         {
           "file": "util.so",
-          "hash": "dd5b6f17eb428a73085586b3ebbcafcc",
-          "url": "https://ankiultimate.github.io/5.0.5/DarwinX6439/util.so",
+          "hash": "66d51a00945dd5159b8c571a3bb4fb2a",
+          "url": "https://ankiultimate.github.io/5.0.6/DarwinX6439/util.so",
           "size": "313.88KB"
         }
       ],
@@ -421,133 +421,133 @@
         {
           "file": "ComboCheckBox.so",
           "hash": "8275ac1381837eb32023dfdc79d48766",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/ComboCheckBox.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/ComboCheckBox.so",
           "size": "642.23KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "c3f9fef3f434353d5de3361e4c24a6fd",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/batch_cloze.so",
-          "size": "401.64KB"
+          "hash": "b794d6c2f25727184af5090d159ae485",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/batch_cloze.so",
+          "size": "417.00KB"
         },
         {
           "file": "batch_excel.so",
           "hash": "34633f15c54a5dcc19093450f9851ff5",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/batch_excel.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/batch_excel.so",
           "size": "491.45KB"
         },
         {
           "file": "batch_judge.so",
           "hash": "fccbcd67ae881d85a07546f8979a6269",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/batch_judge.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/batch_judge.so",
           "size": "310.01KB"
         },
         {
           "file": "batch_selection.so",
           "hash": "7e8bee820269d4a6fffede47ac182bdf",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/batch_selection.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/batch_selection.so",
           "size": "853.50KB"
         },
         {
           "file": "batch_simple.so",
           "hash": "033f89b8874b08c392db394c5ef10954",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/batch_simple.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/batch_simple.so",
           "size": "338.52KB"
         },
         {
           "file": "batch_utils.so",
           "hash": "417d47a446af8e7ca2b81d2a64c4fa1f",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/batch_utils.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/batch_utils.so",
           "size": "581.88KB"
         },
         {
           "file": "bulk_service.so",
           "hash": "0bf64d4a58e6c8b45f4c101ecab578ea",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/bulk_service.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/bulk_service.so",
           "size": "636.75KB"
         },
         {
           "file": "card_previewer.so",
           "hash": "756aa743bbc118c95a7b73f7d4a061e1",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/card_previewer.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/card_previewer.so",
           "size": "584.64KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "822b78b5a2ee1a5192cf0f1d1b1dd92c",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/gui_base.so",
-          "size": "1107.05KB"
+          "hash": "ee71c60f478cb5ae7ec18c15084075f0",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/gui_base.so",
+          "size": "1117.44KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "91764eee4e8e5cf3c82bbba2ef6ee989",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/gui_cloze.so",
-          "size": "584.13KB"
+          "hash": "cf45fc7bcd61c53955fb0280cb97ec0c",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/gui_cloze.so",
+          "size": "582.75KB"
         },
         {
           "file": "gui_excel.so",
           "hash": "3e52d194720577cd9230501076afe862",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/gui_excel.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/gui_excel.so",
           "size": "984.61KB"
         },
         {
           "file": "gui_judge.so",
           "hash": "bfdfd9d6f879405b84f8516a513698ae",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/gui_judge.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/gui_judge.so",
           "size": "429.81KB"
         },
         {
           "file": "gui_select.so",
           "hash": "f5424d196ffeb17c53814fd1d82803ad",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/gui_select.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/gui_select.so",
           "size": "638.11KB"
         },
         {
           "file": "gui_simple.so",
           "hash": "a28db3fbe82470739882f3ba31cd0715",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/gui_simple.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/gui_simple.so",
           "size": "546.77KB"
         },
         {
           "file": "image.so",
           "hash": "a330d95547b1b7169beb34bc8a14202a",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/image.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/image.so",
           "size": "1296.64KB"
         },
         {
           "file": "image_cover.so",
           "hash": "0cac0fa5149865d5a8408febb657a0ca",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/image_cover.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/image_cover.so",
           "size": "369.48KB"
         },
         {
           "file": "png.so",
           "hash": "97d3a5707881e8e8125f0b66dd5b79fd",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/png.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/png.so",
           "size": "4360.05KB"
         },
         {
           "file": "pyaes.so",
           "hash": "d4b058eb03d6a0664295a39a67011170",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/pyaes.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/pyaes.so",
           "size": "3075.50KB"
         },
         {
           "file": "root.so",
-          "hash": "83d7a25d2334a293e4d19725eaad2279",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/root.so",
+          "hash": "8ad6afb86eaa312686a0d7997594ce0c",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/root.so",
           "size": "4278.63KB"
         },
         {
           "file": "translate.so",
           "hash": "5bf74a620b4ca3968eb5d251c2464f74",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/translate.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/translate.so",
           "size": "349.95KB"
         },
         {
           "file": "util.so",
           "hash": "d0fdf0d1ca7205d060a50c36d3432db6",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX64311/util.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX64311/util.so",
           "size": "1554.48KB"
         }
       ],
@@ -559,133 +559,133 @@
         {
           "file": "ComboCheckBox.so",
           "hash": "cc3db2010e6b29f2cbaf0c7715aa0e5c",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/ComboCheckBox.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/ComboCheckBox.so",
           "size": "580.30KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "f2a389515cf3db6c8a34deae7e1a258a",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/batch_cloze.so",
-          "size": "345.41KB"
+          "hash": "3ca003cfef48ca157e51fbddf4a9e584",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/batch_cloze.so",
+          "size": "349.82KB"
         },
         {
           "file": "batch_excel.so",
           "hash": "20307d81b115cf3513a6c57c5f8584e6",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/batch_excel.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/batch_excel.so",
           "size": "407.67KB"
         },
         {
           "file": "batch_judge.so",
           "hash": "c3b29c7e7704cfa3205f06468979ea86",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/batch_judge.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/batch_judge.so",
           "size": "276.19KB"
         },
         {
           "file": "batch_selection.so",
           "hash": "2e6cafe651d2ca95f46a2e52ff8c1f38",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/batch_selection.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/batch_selection.so",
           "size": "800.56KB"
         },
         {
           "file": "batch_simple.so",
           "hash": "55ebe4909ab4632aa61ff7e4869c51d9",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/batch_simple.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/batch_simple.so",
           "size": "293.98KB"
         },
         {
           "file": "batch_utils.so",
           "hash": "7a13d7c836dad6c436231f351426c717",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/batch_utils.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/batch_utils.so",
           "size": "504.73KB"
         },
         {
           "file": "bulk_service.so",
           "hash": "54dbd6c7f1707620be0b34f9a47f1133",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/bulk_service.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/bulk_service.so",
           "size": "513.46KB"
         },
         {
           "file": "card_previewer.so",
           "hash": "0099dc0f7586898e1052ff3c710c97e5",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/card_previewer.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/card_previewer.so",
           "size": "485.91KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "f82ff1136d13c2e1a4053cbbbba24ae3",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/gui_base.so",
-          "size": "1070.86KB"
+          "hash": "fd6e7324233f5c7c3ed3188f0d8a1e53",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/gui_base.so",
+          "size": "1073.64KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "a25bdd870e343c440e6df2527ad1baf7",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/gui_cloze.so",
-          "size": "487.25KB"
+          "hash": "94e70dad0eaae980dd7c9f58ac26f337",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/gui_cloze.so",
+          "size": "494.70KB"
         },
         {
           "file": "gui_excel.so",
           "hash": "a428f41f8f758036a6009c1352d97d9a",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/gui_excel.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/gui_excel.so",
           "size": "935.12KB"
         },
         {
           "file": "gui_judge.so",
           "hash": "e9dc6d218d5444f085bd76bd4657f34f",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/gui_judge.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/gui_judge.so",
           "size": "365.09KB"
         },
         {
           "file": "gui_select.so",
           "hash": "e731abd335e55dabb4ef691941600d9d",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/gui_select.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/gui_select.so",
           "size": "574.99KB"
         },
         {
           "file": "gui_simple.so",
           "hash": "761d647b3ea4f21386a6634758f7ab1e",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/gui_simple.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/gui_simple.so",
           "size": "458.81KB"
         },
         {
           "file": "image.so",
           "hash": "4e92e6d54fb6b4fb30db742f78affd12",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/image.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/image.so",
           "size": "1207.44KB"
         },
         {
           "file": "image_cover.so",
           "hash": "6c20cfe59d55d515faf29c3eb5f7487c",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/image_cover.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/image_cover.so",
           "size": "345.46KB"
         },
         {
           "file": "png.so",
           "hash": "9117ff18f94958aef8934e2003e20f5c",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/png.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/png.so",
           "size": "4273.67KB"
         },
         {
           "file": "pyaes.so",
           "hash": "cf9914ff73bdce60ffc2efc48cd4fbc9",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/pyaes.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/pyaes.so",
           "size": "2304.90KB"
         },
         {
           "file": "root.so",
-          "hash": "2e1b07e28680941a9ce14bc175ecd037",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/root.so",
+          "hash": "4a8e624ff688be0353773fb02c720e6c",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/root.so",
           "size": "4331.65KB"
         },
         {
           "file": "translate.so",
           "hash": "ab1b7f1760db4f693014ccd19236cd39",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/translate.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/translate.so",
           "size": "328.45KB"
         },
         {
           "file": "util.so",
           "hash": "ef173e5513c4da963eecd3aa7cf6fbbc",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6438/util.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6438/util.so",
           "size": "1524.20KB"
         }
       ],
@@ -697,133 +697,133 @@
         {
           "file": "ComboCheckBox.so",
           "hash": "fcff5f3c587e8f67aaefa4ae97fac0f8",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/ComboCheckBox.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/ComboCheckBox.so",
           "size": "564.20KB"
         },
         {
           "file": "batch_cloze.so",
-          "hash": "d0ec70e4c206b0247e9d972569ecd11f",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/batch_cloze.so",
-          "size": "331.21KB"
+          "hash": "d25140041982f4a25e122e123b91e9c1",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/batch_cloze.so",
+          "size": "335.09KB"
         },
         {
           "file": "batch_excel.so",
           "hash": "00939cf33ced88462cecdd47e7fc24a3",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/batch_excel.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/batch_excel.so",
           "size": "402.17KB"
         },
         {
           "file": "batch_judge.so",
           "hash": "f8253dd9223566e266c6de5f0d040de8",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/batch_judge.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/batch_judge.so",
           "size": "271.51KB"
         },
         {
           "file": "batch_selection.so",
           "hash": "858905c2943eadbb226e4d6a319f5dbc",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/batch_selection.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/batch_selection.so",
           "size": "769.01KB"
         },
         {
           "file": "batch_simple.so",
           "hash": "73bafbb372818e0370ea54d741a93d8e",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/batch_simple.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/batch_simple.so",
           "size": "288.55KB"
         },
         {
           "file": "batch_utils.so",
           "hash": "16b2a94efe3c1efb12868bf8a87bebcc",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/batch_utils.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/batch_utils.so",
           "size": "493.52KB"
         },
         {
           "file": "bulk_service.so",
           "hash": "57d1d440ffc3c5d3d9da5d5fee892503",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/bulk_service.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/bulk_service.so",
           "size": "501.13KB"
         },
         {
           "file": "card_previewer.so",
           "hash": "737f4b0180a4052e5b53ac10d4518c23",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/card_previewer.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/card_previewer.so",
           "size": "458.88KB"
         },
         {
           "file": "gui_base.so",
-          "hash": "d8c6526df8fdd1d305ce2105ac1a6b51",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/gui_base.so",
-          "size": "1014.09KB"
+          "hash": "08ce3fb00e4acae4941d10afd42ffa2b",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/gui_base.so",
+          "size": "1016.73KB"
         },
         {
           "file": "gui_cloze.so",
-          "hash": "5c5640fefec544acaf77f9a168c7955e",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/gui_cloze.so",
-          "size": "464.09KB"
+          "hash": "37fc64f5ffc967dfb13f171ac1c5c416",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/gui_cloze.so",
+          "size": "471.54KB"
         },
         {
           "file": "gui_excel.so",
           "hash": "9ab7c9d0154f4d16f4fb515b09dd2735",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/gui_excel.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/gui_excel.so",
           "size": "879.68KB"
         },
         {
           "file": "gui_judge.so",
           "hash": "bd016c2fa40c7d8cb154bffc8389e7c6",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/gui_judge.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/gui_judge.so",
           "size": "349.53KB"
         },
         {
           "file": "gui_select.so",
           "hash": "c7a14c186530e6e660080d22b662a2ee",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/gui_select.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/gui_select.so",
           "size": "541.27KB"
         },
         {
           "file": "gui_simple.so",
           "hash": "3e3bf4d01a14f21d84e191ab9655a196",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/gui_simple.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/gui_simple.so",
           "size": "432.38KB"
         },
         {
           "file": "image.so",
           "hash": "e8493d3ed08e148a27ae66e6d77e1031",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/image.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/image.so",
           "size": "1144.93KB"
         },
         {
           "file": "image_cover.so",
           "hash": "3355122f54796f241dba10bb9692216b",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/image_cover.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/image_cover.so",
           "size": "328.52KB"
         },
         {
           "file": "png.so",
           "hash": "ab6eaf72b4aee06d0658a022441cd38c",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/png.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/png.so",
           "size": "4004.64KB"
         },
         {
           "file": "pyaes.so",
           "hash": "3a61e3ec444e9ea1bd1cdc7c6f2ce4fd",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/pyaes.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/pyaes.so",
           "size": "2210.94KB"
         },
         {
           "file": "root.so",
-          "hash": "50feff82f8997b698365d093c8f11b15",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/root.so",
+          "hash": "a6e5f7fb84096b642812d7f333f6848e",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/root.so",
           "size": "4058.43KB"
         },
         {
           "file": "translate.so",
           "hash": "ed4c4593613e91235a8ae54b44ccdcea",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/translate.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/translate.so",
           "size": "321.98KB"
         },
         {
           "file": "util.so",
           "hash": "b96e14b7d9f35755af80623a270ca4fb",
-          "url": "https://ankiultimate.github.io/5.0.5/LinuxX6439/util.so",
+          "url": "https://ankiultimate.github.io/5.0.6/LinuxX6439/util.so",
           "size": "1450.63KB"
         }
       ],
@@ -834,134 +834,134 @@
       "files": [
         {
           "file": "ComboCheckBox.pyd",
-          "hash": "6e9bc504b3e8610087c9b4c008cedd96",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/ComboCheckBox.pyd",
+          "hash": "90c63261c2e6a9cf03a194a8e8f2a2ec",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/ComboCheckBox.pyd",
           "size": "90.50KB"
         },
         {
           "file": "batch_cloze.pyd",
-          "hash": "c8fb83258b6fcbfd400f1a042e52e7d2",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/batch_cloze.pyd",
-          "size": "66.50KB"
+          "hash": "2ce21dfcf010451ed96389280152dea2",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/batch_cloze.pyd",
+          "size": "67.00KB"
         },
         {
           "file": "batch_excel.pyd",
-          "hash": "f103d839c95e5b92c6afe7f29f39af6e",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/batch_excel.pyd",
+          "hash": "c6a59b6d448f0cded4e6d4ce410fd318",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/batch_excel.pyd",
           "size": "71.00KB"
         },
         {
           "file": "batch_judge.pyd",
-          "hash": "fd2595313acd81a714d7c95fd34298d3",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/batch_judge.pyd",
+          "hash": "d2d35e816882988d0c0b0a4f5e4eb830",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/batch_judge.pyd",
           "size": "58.00KB"
         },
         {
           "file": "batch_selection.pyd",
-          "hash": "8abd2e7ffdcff26d857f82637498c689",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/batch_selection.pyd",
+          "hash": "64ef854dc411d5c9361f7dc54863b0ee",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/batch_selection.pyd",
           "size": "116.00KB"
         },
         {
           "file": "batch_simple.pyd",
-          "hash": "b40cac3ce55bdb0c854f657300745fb9",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/batch_simple.pyd",
+          "hash": "ed212ffc24983e03ccc1a50cfa5217ad",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/batch_simple.pyd",
           "size": "59.00KB"
         },
         {
           "file": "batch_utils.pyd",
-          "hash": "500e5cce9fd9a6b1b1ffd01fc717064f",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/batch_utils.pyd",
+          "hash": "c04c9ce4f1c84ad9e275d6c28c4d9ea5",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/batch_utils.pyd",
           "size": "82.00KB"
         },
         {
           "file": "bulk_service.pyd",
-          "hash": "2832792aba3ead6cd536cf6f06eae510",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/bulk_service.pyd",
+          "hash": "fe70d6748fd8bbebe7033ffc6b57e3ab",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/bulk_service.pyd",
           "size": "82.00KB"
         },
         {
           "file": "card_previewer.pyd",
-          "hash": "4c20177ce91f12e8a603b598e88aecc7",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/card_previewer.pyd",
+          "hash": "2be9dccf0f03b981c0ea677b77d7f64e",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/card_previewer.pyd",
           "size": "89.00KB"
         },
         {
           "file": "gui_base.pyd",
-          "hash": "9dd3a9d272bb367a2a5080989c160c6f",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/gui_base.pyd",
-          "size": "152.50KB"
+          "hash": "b3df7fd6f5a1c44a0250c8b5adbd6fd0",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/gui_base.pyd",
+          "size": "153.00KB"
         },
         {
           "file": "gui_cloze.pyd",
-          "hash": "6f62bf9a7b06a4e93b9bfbb44789cc45",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/gui_cloze.pyd",
-          "size": "82.00KB"
+          "hash": "51ba6b1e49685cb056451960e4ac4006",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/gui_cloze.pyd",
+          "size": "82.50KB"
         },
         {
           "file": "gui_excel.pyd",
-          "hash": "f6cc54454d9127c084198ac0496b967a",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/gui_excel.pyd",
+          "hash": "f3b2a5d121e38b18f194db569e1d9889",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/gui_excel.pyd",
           "size": "132.50KB"
         },
         {
           "file": "gui_judge.pyd",
-          "hash": "d06b200959f616634066ea41dd3c4f13",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/gui_judge.pyd",
+          "hash": "0b10087f4e9d8a50f614cf1e1cea40c8",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/gui_judge.pyd",
           "size": "69.00KB"
         },
         {
           "file": "gui_select.pyd",
-          "hash": "f3261d5912602ecef263e3fa31e15ce5",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/gui_select.pyd",
+          "hash": "36f624da3db1afb862ff65d125ea1365",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/gui_select.pyd",
           "size": "92.00KB"
         },
         {
           "file": "gui_simple.pyd",
-          "hash": "74b7f84d5c280d4bc56eeef989a9ef30",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/gui_simple.pyd",
+          "hash": "916195c61c491aa026045fb04bc06b05",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/gui_simple.pyd",
           "size": "78.00KB"
         },
         {
           "file": "image.pyd",
-          "hash": "cba2c4fbcfc8ccefe7062a5a2a5ac0f6",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/image.pyd",
+          "hash": "0a2b293b032dd31ef360b52bd2bd00c7",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/image.pyd",
           "size": "157.00KB"
         },
         {
           "file": "image_cover.pyd",
-          "hash": "3bdddfa8ab0399e6cb9851a6991cda9b",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/image_cover.pyd",
+          "hash": "a5d78ffe45296b19908a13d8a38ea1ad",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/image_cover.pyd",
           "size": "64.50KB"
         },
         {
           "file": "png.pyd",
-          "hash": "dbb3c7dc6941373bc2085d45657bddc7",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/png.pyd",
+          "hash": "f067a5d198742c64601126ff572dbcc6",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/png.pyd",
           "size": "558.50KB"
         },
         {
           "file": "pyaes.pyd",
-          "hash": "f09b7777deb1edc295b7929769c960eb",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/pyaes.pyd",
+          "hash": "a534bec3541f59cf6ab55075b99030fc",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/pyaes.pyd",
           "size": "457.50KB"
         },
         {
           "file": "root.pyd",
-          "hash": "b4eae4f9a0929db7034f852d5db678a9",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/root.pyd",
+          "hash": "0422a0f2e7c17b0730448e3f2a7ee5bd",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/root.pyd",
           "size": "554.00KB"
         },
         {
           "file": "translate.pyd",
-          "hash": "86c281a187e9f495851be5fa389ff130",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/translate.pyd",
+          "hash": "9d80f52c31fee06789bd33c390bfe9ff",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/translate.pyd",
           "size": "105.50KB"
         },
         {
           "file": "util.pyd",
-          "hash": "872bcb07cf94e45cd7b1d95a5152767d",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6438/util.pyd",
+          "hash": "b4bf6c35c2e3079897510118deca88a3",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6438/util.pyd",
           "size": "211.00KB"
         }
       ],
@@ -972,134 +972,134 @@
       "files": [
         {
           "file": "ComboCheckBox.pyd",
-          "hash": "143bd694c427878f72283fc2beff0cd0",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/ComboCheckBox.pyd",
+          "hash": "fbfae3701a15663115a83ab613daf9ec",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/ComboCheckBox.pyd",
           "size": "90.50KB"
         },
         {
           "file": "batch_cloze.pyd",
-          "hash": "fb4b96f8ab4a0c6875cdbdf0be625a13",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/batch_cloze.pyd",
-          "size": "66.00KB"
+          "hash": "017c473820d6dc63f2af0327323ef422",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/batch_cloze.pyd",
+          "size": "66.50KB"
         },
         {
           "file": "batch_excel.pyd",
-          "hash": "387349b1f0382e3b9f2fe5747d2aba0f",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/batch_excel.pyd",
+          "hash": "feeed994dd048be085577e5b33cf42ce",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/batch_excel.pyd",
           "size": "71.00KB"
         },
         {
           "file": "batch_judge.pyd",
-          "hash": "9b3660b7aa4f37222c93d3f42056b1dc",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/batch_judge.pyd",
+          "hash": "582a5facffe803b018cb9b81badc7f7e",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/batch_judge.pyd",
           "size": "58.00KB"
         },
         {
           "file": "batch_selection.pyd",
-          "hash": "a3f7940179cdb8b7b1ea07c74fe74e5f",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/batch_selection.pyd",
+          "hash": "f1f1e48b3aacf52f3306e3173fed1572",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/batch_selection.pyd",
           "size": "115.50KB"
         },
         {
           "file": "batch_simple.pyd",
-          "hash": "b2a445ed74076e20cc0519bcbad31175",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/batch_simple.pyd",
+          "hash": "bdf988f8585d0ed4af0486d3ea3d8773",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/batch_simple.pyd",
           "size": "59.00KB"
         },
         {
           "file": "batch_utils.pyd",
-          "hash": "bc52434f5fa0f37090438bf4f212a720",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/batch_utils.pyd",
+          "hash": "37740dffca94bf3e4e7949307405d38a",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/batch_utils.pyd",
           "size": "82.00KB"
         },
         {
           "file": "bulk_service.pyd",
-          "hash": "a506a1aa689bfea06fb9e5108f9cee7e",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/bulk_service.pyd",
+          "hash": "3f49795e34276780f6dfa5a33aeccaab",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/bulk_service.pyd",
           "size": "81.50KB"
         },
         {
           "file": "card_previewer.pyd",
-          "hash": "a12a8da73b81baac27efc51090dcd0f8",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/card_previewer.pyd",
+          "hash": "12f4ddf5af29f5367302b0f1a97f5f7a",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/card_previewer.pyd",
           "size": "88.00KB"
         },
         {
           "file": "gui_base.pyd",
-          "hash": "81b1257d4ef6efa94642d089d7af211f",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/gui_base.pyd",
-          "size": "148.00KB"
+          "hash": "487108b0d7a6589f1bcb472b605474b1",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/gui_base.pyd",
+          "size": "148.50KB"
         },
         {
           "file": "gui_cloze.pyd",
-          "hash": "d556807e379e4ddab6f4a25fd8405d23",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/gui_cloze.pyd",
-          "size": "81.50KB"
+          "hash": "9ee7eba5318491557f61656f573fcc1e",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/gui_cloze.pyd",
+          "size": "82.50KB"
         },
         {
           "file": "gui_excel.pyd",
-          "hash": "caae9c36878749bc4c0429c8269e2e1a",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/gui_excel.pyd",
+          "hash": "fe9ae5c3f5806146a710fd3e26e6a4c6",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/gui_excel.pyd",
           "size": "132.00KB"
         },
         {
           "file": "gui_judge.pyd",
-          "hash": "03be0f216db7cdf3022ddebc7bd07cc7",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/gui_judge.pyd",
+          "hash": "73b8e3b0dcaa8d55fcd065dfd252d8f9",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/gui_judge.pyd",
           "size": "69.00KB"
         },
         {
           "file": "gui_select.pyd",
-          "hash": "3e470ea0b48a02112fbd1fa708ebbe0c",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/gui_select.pyd",
+          "hash": "50ae5273b82426dbb4581f4ad916aeef",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/gui_select.pyd",
           "size": "91.50KB"
         },
         {
           "file": "gui_simple.pyd",
-          "hash": "4479c9eddb0717f8fc50fd90a5ffa973",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/gui_simple.pyd",
+          "hash": "574df044ae692a14612d50a4b4fe00a7",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/gui_simple.pyd",
           "size": "77.50KB"
         },
         {
           "file": "image.pyd",
-          "hash": "77f4748f4b1dd6b0002a8712d493b1ff",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/image.pyd",
+          "hash": "02afa082af0458f4b18d38e6b69bcebe",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/image.pyd",
           "size": "157.00KB"
         },
         {
           "file": "image_cover.pyd",
-          "hash": "ff7746ab40cacac6410dc957462ebc22",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/image_cover.pyd",
+          "hash": "80bac8bb397fd6f1d362e9b17588aa15",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/image_cover.pyd",
           "size": "64.50KB"
         },
         {
           "file": "png.pyd",
-          "hash": "a85117ef3a2af93f73d6d473bdf73bb9",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/png.pyd",
+          "hash": "b0fdee0babbf777d14613c02a8044797",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/png.pyd",
           "size": "551.50KB"
         },
         {
           "file": "pyaes.pyd",
-          "hash": "a8546e761990a305b3e609aff872b20b",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/pyaes.pyd",
+          "hash": "64f8e1226baec3296c8e695333cdd204",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/pyaes.pyd",
           "size": "456.00KB"
         },
         {
           "file": "root.pyd",
-          "hash": "cceab877ba32cc437c72998d004a5ee4",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/root.pyd",
+          "hash": "75a95e60b49d1596e3f6635c3b77c8ad",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/root.pyd",
           "size": "545.50KB"
         },
         {
           "file": "translate.pyd",
-          "hash": "4ca3a38bc1b0c9cf64060857ccadf94c",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/translate.pyd",
+          "hash": "32aee24760f9638580749a28fb18a6fd",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/translate.pyd",
           "size": "105.50KB"
         },
         {
           "file": "util.pyd",
-          "hash": "f7b2f486acfd31bfac51ea42a8c25507",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsAMD6439/util.pyd",
+          "hash": "3c6dad698c9e29dcf044a21a330fc394",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsAMD6439/util.pyd",
           "size": "210.50KB"
         }
       ],
@@ -1110,134 +1110,134 @@
       "files": [
         {
           "file": "ComboCheckBox.pyd",
-          "hash": "15dbef75a90f7b8b2d98b89111bf6f6c",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/ComboCheckBox.pyd",
+          "hash": "2573fd7c552899143adf0053cbfcf5ec",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/ComboCheckBox.pyd",
           "size": "76.00KB"
         },
         {
           "file": "batch_cloze.pyd",
-          "hash": "c3c1d7c26bdd3df37f5a8a18ee9b7136",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/batch_cloze.pyd",
-          "size": "54.50KB"
+          "hash": "1dcb15cb7685f8788dce71c3c97a7719",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/batch_cloze.pyd",
+          "size": "55.00KB"
         },
         {
           "file": "batch_excel.pyd",
-          "hash": "602f752bcf57ecdd49dcb64c1c5cab8e",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/batch_excel.pyd",
+          "hash": "d8c6109397d22d104c3d5cef72cd6dba",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/batch_excel.pyd",
           "size": "59.00KB"
         },
         {
           "file": "batch_judge.pyd",
-          "hash": "6a771dee870981b1ffd218251925c45f",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/batch_judge.pyd",
+          "hash": "bc23a085140dd3816adf5b168e782016",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/batch_judge.pyd",
           "size": "47.50KB"
         },
         {
           "file": "batch_selection.pyd",
-          "hash": "ddd16b295a9cd7cba012d36949b0312e",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/batch_selection.pyd",
+          "hash": "5d3a718c72966bbd92bde506905541ce",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/batch_selection.pyd",
           "size": "99.00KB"
         },
         {
           "file": "batch_simple.pyd",
-          "hash": "8317fd349910e4a9cbb20e6b34788021",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/batch_simple.pyd",
+          "hash": "5b488e0352bfb6c5d481df99fbd2b50d",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/batch_simple.pyd",
           "size": "48.50KB"
         },
         {
           "file": "batch_utils.pyd",
-          "hash": "5ce9d98c2933f781fde4a7ab65a96616",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/batch_utils.pyd",
+          "hash": "295788de4e6b76bceeb31280f771dcbd",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/batch_utils.pyd",
           "size": "69.00KB"
         },
         {
           "file": "bulk_service.pyd",
-          "hash": "d2301766616a11a2d186f7907165cba7",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/bulk_service.pyd",
+          "hash": "d9e39dc26f7328388b28f1a765e5a60b",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/bulk_service.pyd",
           "size": "69.00KB"
         },
         {
           "file": "card_previewer.pyd",
-          "hash": "8d1583953f2225f1a314b2824742a1d1",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/card_previewer.pyd",
+          "hash": "cfe7515a95a9dd6c731a6caedc4b566f",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/card_previewer.pyd",
           "size": "74.50KB"
         },
         {
           "file": "gui_base.pyd",
-          "hash": "4140e1ceed3f22d1e8624dce14312b93",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/gui_base.pyd",
+          "hash": "32f2335ecde278d44c20222ebae3df38",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/gui_base.pyd",
           "size": "137.50KB"
         },
         {
           "file": "gui_cloze.pyd",
-          "hash": "d5a43026361e326fac9537ecfa00af53",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/gui_cloze.pyd",
-          "size": "68.50KB"
+          "hash": "7f3789136eaadf4a9d13c59fd68b28ae",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/gui_cloze.pyd",
+          "size": "69.00KB"
         },
         {
           "file": "gui_excel.pyd",
-          "hash": "6e576b54aa1502f73021d870dbaf6b31",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/gui_excel.pyd",
+          "hash": "4db0b055220604df9c33924d75e3f2a7",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/gui_excel.pyd",
           "size": "114.00KB"
         },
         {
           "file": "gui_judge.pyd",
-          "hash": "9ebb14c9724e01ccb15c41ecfe41eed8",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/gui_judge.pyd",
+          "hash": "b28917584785aabd3268cfff64aca78c",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/gui_judge.pyd",
           "size": "57.50KB"
         },
         {
           "file": "gui_select.pyd",
-          "hash": "99c204587ee1602eb8b2ee240e3dfd45",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/gui_select.pyd",
+          "hash": "498c2d5fa7873dc0ba11e2b65a475d27",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/gui_select.pyd",
           "size": "78.50KB"
         },
         {
           "file": "gui_simple.pyd",
-          "hash": "e7798ab50affbc1aa8b8e53d1589fd24",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/gui_simple.pyd",
+          "hash": "1c9afb08b244196d79b5ddb763390edb",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/gui_simple.pyd",
           "size": "65.50KB"
         },
         {
           "file": "image.pyd",
-          "hash": "08c346a9c00a4721e6c468c7a9525826",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/image.pyd",
+          "hash": "9140eaf2a2e956977c4528286d2b2d49",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/image.pyd",
           "size": "138.50KB"
         },
         {
           "file": "image_cover.pyd",
-          "hash": "87432d835848e657c586557a5206459a",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/image_cover.pyd",
+          "hash": "34e5b72f2616d3da0ac6a535264d5e99",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/image_cover.pyd",
           "size": "53.50KB"
         },
         {
           "file": "png.pyd",
-          "hash": "d5f88693f879da89f909ac688caec82b",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/png.pyd",
+          "hash": "3e7b1fc6b73b35fbe6f397a150cd874a",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/png.pyd",
           "size": "492.50KB"
         },
         {
           "file": "pyaes.pyd",
-          "hash": "af882fb3371571efd9905d52f8fd4d25",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/pyaes.pyd",
+          "hash": "9be576543e17b95d352bad878c29e3dd",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/pyaes.pyd",
           "size": "411.00KB"
         },
         {
           "file": "root.pyd",
-          "hash": "f1bd95f43c0fd69645518a5579f40da3",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/root.pyd",
+          "hash": "9fa227cfd358f3b77e660cd6c8209d48",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/root.pyd",
           "size": "489.00KB"
         },
         {
           "file": "translate.pyd",
-          "hash": "87afc4c987296d3cf7dbd80167b8bd10",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/translate.pyd",
+          "hash": "f31aaa4461509845488043005a290e93",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/translate.pyd",
           "size": "95.00KB"
         },
         {
           "file": "util.pyd",
-          "hash": "6946a47670d4d5a61c1b2d61a2087ba7",
-          "url": "https://ankiultimate.github.io/5.0.5/WindowsX8638/util.pyd",
+          "hash": "ce2300cd338d4cc968338ec781ef41c0",
+          "url": "https://ankiultimate.github.io/5.0.6/WindowsX8638/util.pyd",
           "size": "184.00KB"
         }
       ],
@@ -1278,7 +1278,7 @@
     }
   ],
   "vendors": {
-    "url": "https://ankiultimate.github.io/5.0.5/vendors.zip",
+    "url": "https://ankiultimate.github.io/5.0.6/vendors.zip",
     "size": "777.51KB",
     "hash": "39ca2e72cb8c22d588be29dbe55281c2"
   },
@@ -1287,19 +1287,19 @@
       {
         "file": "config.json",
         "hash": "abeef6e9b0644d86dc5b43ad651f916a",
-        "url": "https://ankiultimate.github.io/5.0.5/root-global/config.json",
+        "url": "https://ankiultimate.github.io/5.0.6/root-global/config.json",
         "size": "0.86KB"
       },
       {
         "file": "config.md",
         "hash": "45bc521b4222265512aa05fabf2d9b2e",
-        "url": "https://ankiultimate.github.io/5.0.5/root-global/config.md",
+        "url": "https://ankiultimate.github.io/5.0.6/root-global/config.md",
         "size": "0.03KB"
       },
       {
         "file": "manifest.json",
         "hash": "a82605e78df8905985bdf7b7e59319a1",
-        "url": "https://ankiultimate.github.io/5.0.5/root-global/manifest.json",
+        "url": "https://ankiultimate.github.io/5.0.6/root-global/manifest.json",
         "size": "0.20KB"
       }
     ],
