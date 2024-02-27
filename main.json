@@ -1,77 +1,77 @@
 {
-  "version": "5.0.17",
+  "version": "5.1.0",
   "isLatest": true,
   "platforms": [
     {
       "baseFolder": ".",
       "file": "DarwinArm6439.zip",
-      "hash": "f089444f5171c8d87ec1f73138714885",
-      "url": "https://ankiultimate.github.io/5.0.17/DarwinArm6439.zip",
-      "size": "1392.28KB",
+      "hash": "0871c0ffe4d77b45d197fc20d5dc37b7",
+      "url": "https://ankiultimate.github.io/5.1.0/DarwinArm6439.zip",
+      "size": "1392.63KB",
       "identify": "39-Darwin-arm64"
     },
     {
       "baseFolder": ".",
       "file": "DarwinX6438.zip",
-      "hash": "fb9ae3eb30dbd49a521ae87e26d269c5",
-      "url": "https://ankiultimate.github.io/5.0.17/DarwinX6438.zip",
-      "size": "1577.35KB",
+      "hash": "45a1b4563219cc1e4a8066409e41d3a1",
+      "url": "https://ankiultimate.github.io/5.1.0/DarwinX6438.zip",
+      "size": "1578.42KB",
       "identify": "38-Darwin-x86_64"
     },
     {
       "baseFolder": ".",
       "file": "DarwinX6439.zip",
-      "hash": "0358f16e4f816bfbbc4f94708879af2c",
-      "url": "https://ankiultimate.github.io/5.0.17/DarwinX6439.zip",
-      "size": "1586.33KB",
+      "hash": "2d5a3ac9ed8d462c7f70e85cef499527",
+      "url": "https://ankiultimate.github.io/5.1.0/DarwinX6439.zip",
+      "size": "1587.47KB",
       "identify": "39-Darwin-x86_64"
     },
     {
       "baseFolder": ".",
       "file": "LinuxX64311.zip",
-      "hash": "ef03713874f1885370c96afe84420a5d",
-      "url": "https://ankiultimate.github.io/5.0.17/LinuxX64311.zip",
-      "size": "9669.09KB",
+      "hash": "3584c278be42412111bb96e40e7a99bd",
+      "url": "https://ankiultimate.github.io/5.1.0/LinuxX64311.zip",
+      "size": "9679.34KB",
       "identify": "311-Linux-x86_64"
     },
     {
       "baseFolder": ".",
       "file": "LinuxX6438.zip",
-      "hash": "561170520cb75737af2d9ec7451911dc",
-      "url": "https://ankiultimate.github.io/5.0.17/LinuxX6438.zip",
-      "size": "8892.39KB",
+      "hash": "dc82e8b4bacffcc7c4be0dbda7507e51",
+      "url": "https://ankiultimate.github.io/5.1.0/LinuxX6438.zip",
+      "size": "8900.47KB",
       "identify": "38-Linux-x86_64"
     },
     {
       "baseFolder": ".",
       "file": "LinuxX6439.zip",
-      "hash": "a6ccbcf1e17b0a5e46ca4bc9159d2b93",
-      "url": "https://ankiultimate.github.io/5.0.17/LinuxX6439.zip",
-      "size": "8598.40KB",
+      "hash": "6fd3482429e8162a618fbca366ba71c9",
+      "url": "https://ankiultimate.github.io/5.1.0/LinuxX6439.zip",
+      "size": "8607.38KB",
       "identify": "39-Linux-x86_64"
     },
     {
       "baseFolder": ".",
       "file": "WindowsAMD6438.zip",
-      "hash": "2e4157d058e1576bfb82271fa5e126f9",
-      "url": "https://ankiultimate.github.io/5.0.17/WindowsAMD6438.zip",
-      "size": "1452.49KB",
+      "hash": "71cd3f87c925f7de117b6dd45c6aa576",
+      "url": "https://ankiultimate.github.io/5.1.0/WindowsAMD6438.zip",
+      "size": "1453.12KB",
       "identify": "38-Windows-AMD64"
     },
     {
       "baseFolder": ".",
       "file": "WindowsAMD6439.zip",
-      "hash": "550a8d9f608ad30a2e5dc317efff5c9f",
-      "url": "https://ankiultimate.github.io/5.0.17/WindowsAMD6439.zip",
-      "size": "1443.16KB",
+      "hash": "1054c2c6aa63065987ac8949f0e48c5c",
+      "url": "https://ankiultimate.github.io/5.1.0/WindowsAMD6439.zip",
+      "size": "1442.72KB",
       "identify": "39-Windows-AMD64"
     },
     {
       "baseFolder": ".",
       "file": "WindowsX8638.zip",
-      "hash": "4fb6f6e7f07a5a703d3cd7163f5e6db7",
-      "url": "https://ankiultimate.github.io/5.0.17/WindowsX8638.zip",
-      "size": "1256.93KB",
+      "hash": "5512c3e09b728d61cbd078453169cfe0",
+      "url": "https://ankiultimate.github.io/5.1.0/WindowsX8638.zip",
+      "size": "1256.56KB",
       "identify": "38-Windows-x86"
     }
   ],
@@ -113,19 +113,19 @@
       {
         "file": "config.json",
         "hash": "abeef6e9b0644d86dc5b43ad651f916a",
-        "url": "https://ankiultimate.github.io/5.0.17/root-global/config.json",
+        "url": "https://ankiultimate.github.io/5.1.0/root-global/config.json",
         "size": "0.86KB"
       },
       {
         "file": "config.md",
         "hash": "45bc521b4222265512aa05fabf2d9b2e",
-        "url": "https://ankiultimate.github.io/5.0.17/root-global/config.md",
+        "url": "https://ankiultimate.github.io/5.1.0/root-global/config.md",
         "size": "0.03KB"
       },
       {
         "file": "manifest.json",
         "hash": "a82605e78df8905985bdf7b7e59319a1",
-        "url": "https://ankiultimate.github.io/5.0.17/root-global/manifest.json",
+        "url": "https://ankiultimate.github.io/5.1.0/root-global/manifest.json",
         "size": "0.20KB"
       }
     ]
@@ -134,7 +134,7 @@
     "baseFolder": ".",
     "file": "vendors.zip",
     "hash": "2516bb7a8e1665271be88d817991d5d8",
-    "url": "https://ankiultimate.github.io/5.0.17/vendors.zip",
+    "url": "https://ankiultimate.github.io/5.1.0/vendors.zip",
     "size": "672.07KB"
   }
 }
