@@ -1,0 +1,47 @@
+{
+  "action": {
+    "cloze": {
+      "name": "onAutoAnswerCloze",
+      "hotkey": "Ctrl+Shift+X",
+      "tooltip": "Auto Answer Cloze"
+    },
+    "selection": {
+      "name": "onSelectionParse",
+      "hotkey": "Ctrl+Shift+B",
+      "tooltip": "Parse Clipboard as Selection"
+    },
+    "imageCover": {
+      "name": "onImageCover",
+      "hotkey": "Ctrl+Shift+C",
+      "tooltip": "Auto cover high-light regions (Beta)"
+    },
+    "simpleQuestion": {
+      "name": "onSimpleQuestion",
+      "tooltip": "Parse Clipboard as Simple question"
+    }
+  },
+  "orderId": "",
+  "autoTags": "",
+  "license": "",
+  "functions": {
+    "idAutoIncrease": true,
+    "overrideShortCuts": true,
+    "directPreviewForNewNote": true,
+    "refreshBrowserAfterSave": true,
+    "autoAssignTemplate": true
+  },
+  "quickSelection": {
+    "optionCase": 3,
+    "answerLinePrefix": ""
+  },
+  "syncServer": {
+    "autoStart": true,
+    "port": "8080",
+    "userName": "user",
+    "password": "pass",
+    "checkSleep": 3,
+    "payloadLimit": "1000",
+    "ankiPath": ""
+  },
+  "cdn": ""
+}
