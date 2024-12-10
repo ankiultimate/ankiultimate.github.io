@@ -1,0 +1,132 @@
+[
+  {
+    "platform": "Common",
+    "files": [
+      {
+        "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+        "file": "_openpyxl.zip"
+      },
+      {
+        "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+        "file": "_packaging.zip"
+      }
+    ]
+  },
+  {
+    "platform": "DarwinArm6439",
+    "files": [
+      {
+        "hash": "c6d3d01b52b3efcb3522ad22b2af85f3",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "ed2fa62d086e80de03b900e4886e156b",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "DarwinX6438",
+    "files": [
+      {
+        "hash": "1ba8334e17f27d0ef50f88c654fd5b25",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "6513496ebe32834b927b2036538c4493",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "DarwinX6439",
+    "files": [
+      {
+        "hash": "11871b44ea831fdc147456e7678fb4b2",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "39d4b14e48884938aae2810f5528f7ec",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "LinuxX64311",
+    "files": [
+      {
+        "hash": "7ef59f8e85134f3e3d39d2613c1dae62",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "6a5dd89ae57f22266f0c069d197f7c3c",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "LinuxX6438",
+    "files": [
+      {
+        "hash": "5e1e81c55c6b7a5e4418a430cdde4097",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "393c56f365c2a13b39ebacf19e93149a",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "LinuxX6439",
+    "files": [
+      {
+        "hash": "b61453874426da16d683a971aec0dd08",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "776745f7bd3d7131f6a65429b885afff",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "WindowsAMD6438",
+    "files": [
+      {
+        "hash": "0c3b9dd1d6de8773fd83936c6fbc24a1",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "591456c138268d909194016bd014f111",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "WindowsAMD6439",
+    "files": [
+      {
+        "hash": "68e898a27559bc9a1cb0002f846dd1ea",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "596071ce5b56bf088640a7861b324ce2",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  },
+  {
+    "platform": "WindowsX8638",
+    "files": [
+      {
+        "hash": "eefa64fbf5887aec7865b33063f05431",
+        "file": "_pillow.zip"
+      },
+      {
+        "hash": "af07e6bf77b264dcefea1da439367fd9",
+        "file": "_pymupdf.zip"
+      }
+    ]
+  }
+]
