@@ -1,0 +1,133 @@
+{
+  "version": "7.4.12",
+  "isLatest": true,
+  "platforms": [
+    {
+      "baseFolder": ".",
+      "file": "DarwinArm6439.zip",
+      "hash": "86598215fe0d87ae1ccdc54afae93fa8",
+      "url": "https://ankiultimate.github.io/7.4.12/DarwinArm6439.zip",
+      "size": "2040.50KB",
+      "identify": "39-Darwin-arm64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "DarwinX6438.zip",
+      "hash": "e3329665d16e5c160340c3c4b16df9c9",
+      "url": "https://ankiultimate.github.io/7.4.12/DarwinX6438.zip",
+      "size": "2198.82KB",
+      "identify": "38-Darwin-x86_64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "DarwinX6439.zip",
+      "hash": "236ed064501f0d1283df7de825673ca1",
+      "url": "https://ankiultimate.github.io/7.4.12/DarwinX6439.zip",
+      "size": "2207.81KB",
+      "identify": "39-Darwin-x86_64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX64311.zip",
+      "hash": "a2d6079302abed5b9efb0dad21a6d310",
+      "url": "https://ankiultimate.github.io/7.4.12/LinuxX64311.zip",
+      "size": "13774.56KB",
+      "identify": "311-Linux-x86_64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX6438.zip",
+      "hash": "be67fd8456b27f84441f372f608e1be6",
+      "url": "https://ankiultimate.github.io/7.4.12/LinuxX6438.zip",
+      "size": "13977.85KB",
+      "identify": "38-Linux-x86_64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX6439.zip",
+      "hash": "6f1350c52db2bfbf65f609de309361b6",
+      "url": "https://ankiultimate.github.io/7.4.12/LinuxX6439.zip",
+      "size": "12480.88KB",
+      "identify": "39-Linux-x86_64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsAMD6438.zip",
+      "hash": "c739cc1406b26d362d6600ead6cae993",
+      "url": "https://ankiultimate.github.io/7.4.12/WindowsAMD6438.zip",
+      "size": "2138.58KB",
+      "identify": "38-Windows-AMD64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsAMD6439.zip",
+      "hash": "4a4b445a93c939dcf2269168e1ac8ee1",
+      "url": "https://ankiultimate.github.io/7.4.12/WindowsAMD6439.zip",
+      "size": "2126.91KB",
+      "identify": "39-Windows-AMD64"
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsX8638.zip",
+      "hash": "846d397bf2364b1333d7e35b6ef1d5e6",
+      "url": "https://ankiultimate.github.io/7.4.12/WindowsX8638.zip",
+      "size": "1865.43KB",
+      "identify": "38-Windows-x86"
+    }
+  ],
+  "resources": [
+    {
+      "file": "cloze.png",
+      "hash": "1739604d115bd2da760beff954a5aafd",
+      "url": "https://ankiultimate.github.io/resource/cloze.png",
+      "size": "0.50KB"
+    },
+    {
+      "file": "image_cover.png",
+      "hash": "2c1f6ec5800694621e7bf631c9b7dce1",
+      "url": "https://ankiultimate.github.io/resource/image_cover.png",
+      "size": "1.64KB"
+    },
+    {
+      "file": "selection.png",
+      "hash": "c2ff9a2452bfb5bd3b4703b579384d67",
+      "url": "https://ankiultimate.github.io/resource/selection.png",
+      "size": "1.84KB"
+    },
+    {
+      "file": "simple_question.png",
+      "hash": "379c23fbd4aff5fa8dcab100f9bd8a60",
+      "url": "https://ankiultimate.github.io/resource/simple_question.png",
+      "size": "2.25KB"
+    },
+    {
+      "file": "simple_question_parser.png",
+      "hash": "e4e19ecbfa45171c4881a53a320fca4d",
+      "url": "https://ankiultimate.github.io/resource/simple_question_parser.png",
+      "size": "1.52KB"
+    }
+  ],
+  "mainEntry": {
+    "baseFolder": ".",
+    "files": [
+      {
+        "file": "__init__.py",
+        "hash": "af038714457002b59fa61205e02bf559",
+        "url": "https://ankiultimate.github.io/7.4.12/root-global/__init__.py",
+        "size": "5.84KB"
+      },
+      {
+        "file": "config.json",
+        "hash": "66149fc13add68532094c618ccb323ed",
+        "url": "https://ankiultimate.github.io/7.4.12/root-global/config.json",
+        "size": "1.03KB"
+      },
+      {
+        "file": "manifest.json",
+        "hash": "1e810fa8dd89bfbda7b4b9ac1293bbf8",
+        "url": "https://ankiultimate.github.io/7.4.12/root-global/manifest.json",
+        "size": "0.21KB"
+      }
+    ]
+  }
+}
