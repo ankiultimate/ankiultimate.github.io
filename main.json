@@ -1,0 +1,367 @@
+{
+  "version": "7.5.6",
+  "isLatest": true,
+  "platforms": [
+    {
+      "baseFolder": ".",
+      "file": "DarwinArm6439.zip",
+      "hash": "c0a30d2c10bbadcc19376d5722a40089",
+      "url": "https://ankiultimate.github.io/7.5.6/DarwinArm6439.zip",
+      "size": "1808.38KB",
+      "identify": "39-Darwin-arm64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "c6d3d01b52b3efcb3522ad22b2af85f3",
+          "file": "_pillow.zip",
+          "size": "3296.57KB",
+          "url": "https://ankiultimate.github.io/vendor/DarwinArm6439/_pillow.zip"
+        },
+        {
+          "hash": "ed2fa62d086e80de03b900e4886e156b",
+          "file": "_pymupdf.zip",
+          "size": "17276.29KB",
+          "url": "https://ankiultimate.github.io/vendor/DarwinArm6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "DarwinX6438.zip",
+      "hash": "f8374e62daff45b47a0180b2fbdde1d2",
+      "url": "https://ankiultimate.github.io/7.5.6/DarwinX6438.zip",
+      "size": "1945.31KB",
+      "identify": "38-Darwin-x86_64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "1ba8334e17f27d0ef50f88c654fd5b25",
+          "file": "_pillow.zip",
+          "size": "3426.97KB",
+          "url": "https://ankiultimate.github.io/vendor/DarwinX6438/_pillow.zip"
+        },
+        {
+          "hash": "6513496ebe32834b927b2036538c4493",
+          "file": "_pymupdf.zip",
+          "size": "17857.48KB",
+          "url": "https://ankiultimate.github.io/vendor/DarwinX6438/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "DarwinX6439.zip",
+      "hash": "2ac0e54b0623aa898a0f713580ef09c2",
+      "url": "https://ankiultimate.github.io/7.5.6/DarwinX6439.zip",
+      "size": "1954.11KB",
+      "identify": "39-Darwin-x86_64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "11871b44ea831fdc147456e7678fb4b2",
+          "file": "_pillow.zip",
+          "size": "3427.03KB",
+          "url": "https://ankiultimate.github.io/vendor/DarwinX6439/_pillow.zip"
+        },
+        {
+          "hash": "39d4b14e48884938aae2810f5528f7ec",
+          "file": "_pymupdf.zip",
+          "size": "17864.19KB",
+          "url": "https://ankiultimate.github.io/vendor/DarwinX6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX64311.zip",
+      "hash": "c8e4c56528873bc51b3460994cd5de64",
+      "url": "https://ankiultimate.github.io/7.5.6/LinuxX64311.zip",
+      "size": "12130.32KB",
+      "identify": "311-Linux-x86_64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "7ef59f8e85134f3e3d39d2613c1dae62",
+          "file": "_pillow.zip",
+          "size": "4348.44KB",
+          "url": "https://ankiultimate.github.io/vendor/LinuxX64311/_pillow.zip"
+        },
+        {
+          "hash": "6a5dd89ae57f22266f0c069d197f7c3c",
+          "file": "_pymupdf.zip",
+          "size": "18473.77KB",
+          "url": "https://ankiultimate.github.io/vendor/LinuxX64311/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX6438.zip",
+      "hash": "6c36e82b702ea10aa1ed08185133396b",
+      "url": "https://ankiultimate.github.io/7.5.6/LinuxX6438.zip",
+      "size": "11225.13KB",
+      "identify": "38-Linux-x86_64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "5e1e81c55c6b7a5e4418a430cdde4097",
+          "file": "_pillow.zip",
+          "size": "4340.18KB",
+          "url": "https://ankiultimate.github.io/vendor/LinuxX6438/_pillow.zip"
+        },
+        {
+          "hash": "393c56f365c2a13b39ebacf19e93149a",
+          "file": "_pymupdf.zip",
+          "size": "18451.29KB",
+          "url": "https://ankiultimate.github.io/vendor/LinuxX6438/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX6439.zip",
+      "hash": "786b2e847404d328ae04f4ca81726690",
+      "url": "https://ankiultimate.github.io/7.5.6/LinuxX6439.zip",
+      "size": "10863.75KB",
+      "identify": "39-Linux-x86_64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "b61453874426da16d683a971aec0dd08",
+          "file": "_pillow.zip",
+          "size": "4336.73KB",
+          "url": "https://ankiultimate.github.io/vendor/LinuxX6439/_pillow.zip"
+        },
+        {
+          "hash": "776745f7bd3d7131f6a65429b885afff",
+          "file": "_pymupdf.zip",
+          "size": "18449.05KB",
+          "url": "https://ankiultimate.github.io/vendor/LinuxX6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsAMD6438.zip",
+      "hash": "adc5cb7189f5ae803a71f672fce08268",
+      "url": "https://ankiultimate.github.io/7.5.6/WindowsAMD6438.zip",
+      "size": "1921.01KB",
+      "identify": "38-Windows-AMD64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "0c3b9dd1d6de8773fd83936c6fbc24a1",
+          "file": "_pillow.zip",
+          "size": "2494.72KB",
+          "url": "https://ankiultimate.github.io/vendor/WindowsAMD6438/_pillow.zip"
+        },
+        {
+          "hash": "591456c138268d909194016bd014f111",
+          "file": "_pymupdf.zip",
+          "size": "15647.72KB",
+          "url": "https://ankiultimate.github.io/vendor/WindowsAMD6438/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsAMD6439.zip",
+      "hash": "17129b745b89dd9f43c0c5b1830656cc",
+      "url": "https://ankiultimate.github.io/7.5.6/WindowsAMD6439.zip",
+      "size": "1911.91KB",
+      "identify": "39-Windows-AMD64",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "68e898a27559bc9a1cb0002f846dd1ea",
+          "file": "_pillow.zip",
+          "size": "2494.61KB",
+          "url": "https://ankiultimate.github.io/vendor/WindowsAMD6439/_pillow.zip"
+        },
+        {
+          "hash": "596071ce5b56bf088640a7861b324ce2",
+          "file": "_pymupdf.zip",
+          "size": "15647.94KB",
+          "url": "https://ankiultimate.github.io/vendor/WindowsAMD6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsX8638.zip",
+      "hash": "18e3cfdd3bf5a919c3fc9482aee4c991",
+      "url": "https://ankiultimate.github.io/7.5.6/WindowsX8638.zip",
+      "size": "1675.64KB",
+      "identify": "38-Windows-x86",
+      "vendors": [
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://ankiultimate.github.io/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "eefa64fbf5887aec7865b33063f05431",
+          "file": "_pillow.zip",
+          "size": "2182.80KB",
+          "url": "https://ankiultimate.github.io/vendor/WindowsX8638/_pillow.zip"
+        },
+        {
+          "hash": "af07e6bf77b264dcefea1da439367fd9",
+          "file": "_pymupdf.zip",
+          "size": "13758.74KB",
+          "url": "https://ankiultimate.github.io/vendor/WindowsX8638/_pymupdf.zip"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "file": "cloze.png",
+      "hash": "1739604d115bd2da760beff954a5aafd",
+      "url": "https://ankiultimate.github.io/resource/cloze.png",
+      "size": "0.50KB"
+    },
+    {
+      "file": "image_cover.png",
+      "hash": "2c1f6ec5800694621e7bf631c9b7dce1",
+      "url": "https://ankiultimate.github.io/resource/image_cover.png",
+      "size": "1.64KB"
+    },
+    {
+      "file": "selection.png",
+      "hash": "c2ff9a2452bfb5bd3b4703b579384d67",
+      "url": "https://ankiultimate.github.io/resource/selection.png",
+      "size": "1.84KB"
+    },
+    {
+      "file": "simple_question.png",
+      "hash": "379c23fbd4aff5fa8dcab100f9bd8a60",
+      "url": "https://ankiultimate.github.io/resource/simple_question.png",
+      "size": "2.25KB"
+    },
+    {
+      "file": "simple_question_parser.png",
+      "hash": "e4e19ecbfa45171c4881a53a320fca4d",
+      "url": "https://ankiultimate.github.io/resource/simple_question_parser.png",
+      "size": "1.52KB"
+    }
+  ],
+  "mainEntry": {
+    "baseFolder": ".",
+    "files": [
+      {
+        "file": "__init__.py",
+        "hash": "9b0be5bedd3ae533be21a55823de7ae4",
+        "url": "https://ankiultimate.github.io/7.5.6/root-global/__init__.py",
+        "size": "5.94KB"
+      },
+      {
+        "file": "config.json",
+        "hash": "66149fc13add68532094c618ccb323ed",
+        "url": "https://ankiultimate.github.io/7.5.6/root-global/config.json",
+        "size": "1.03KB"
+      },
+      {
+        "file": "manifest.json",
+        "hash": "1e810fa8dd89bfbda7b4b9ac1293bbf8",
+        "url": "https://ankiultimate.github.io/7.5.6/root-global/manifest.json",
+        "size": "0.21KB"
+      }
+    ]
+  }
+}
