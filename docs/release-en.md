@@ -1,4 +1,8 @@
 ### Release Notes
+v7.5.7 (2025-02-27)
+1. Fixed the issue where PDF annotations could not be read under extreme circumstances
+2. Adjusted the position of the first-line title in all batch card creation interfaces
+
 v7.5.6 (2025-02-25)
 1. Fixed the issue where third-party dependency packages failed to load
 
