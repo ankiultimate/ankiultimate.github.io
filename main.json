@@ -1,0 +1,547 @@
+{
+  "version": "8.2.12",
+  "isLatest": true,
+  "platforms": [
+    {
+      "baseFolder": ".",
+      "file": "DarwinArm6439.zip",
+      "hash": "450cc3e91bcbb47042a32e2b5eae4bfc",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/DarwinArm6439.zip",
+      "size": "2069.81KB",
+      "identify": "39-Darwin-arm64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "c0c00a028176df6befa29750faa7e476",
+          "file": "_docx.zip",
+          "size": "4325.44KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinArm6439/_docx.zip"
+        },
+        {
+          "hash": "4bbac3ebf528bbc3825eddc3717284f1",
+          "file": "_netifaces.zip",
+          "size": "12.18KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinArm6439/_netifaces.zip"
+        },
+        {
+          "hash": "c6d3d01b52b3efcb3522ad22b2af85f3",
+          "file": "_pillow.zip",
+          "size": "3296.57KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinArm6439/_pillow.zip"
+        },
+        {
+          "hash": "ed2fa62d086e80de03b900e4886e156b",
+          "file": "_pymupdf.zip",
+          "size": "17276.29KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinArm6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "DarwinX6438.zip",
+      "hash": "d17bed74f31e8adfcfa50d44c63eaedc",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/DarwinX6438.zip",
+      "size": "2360.53KB",
+      "identify": "38-Darwin-x86_64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "3172fa9e76e2bebf716db2ed5c8cd710",
+          "file": "_docx.zip",
+          "size": "4545.77KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6438/_docx.zip"
+        },
+        {
+          "hash": "3ee2827e9ff590d9c56617d568204057",
+          "file": "_netifaces.zip",
+          "size": "245.07KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6438/_netifaces.zip"
+        },
+        {
+          "hash": "1ba8334e17f27d0ef50f88c654fd5b25",
+          "file": "_pillow.zip",
+          "size": "3426.97KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6438/_pillow.zip"
+        },
+        {
+          "hash": "6513496ebe32834b927b2036538c4493",
+          "file": "_pymupdf.zip",
+          "size": "17857.48KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6438/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "DarwinX6439.zip",
+      "hash": "012f96492467d188bb483f563940cfb1",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/DarwinX6439.zip",
+      "size": "2263.61KB",
+      "identify": "39-Darwin-x86_64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "1d3dc43d79cd3011226db0159e52a82a",
+          "file": "_docx.zip",
+          "size": "4510.84KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6439/_docx.zip"
+        },
+        {
+          "hash": "3ee2827e9ff590d9c56617d568204057",
+          "file": "_netifaces.zip",
+          "size": "245.07KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6439/_netifaces.zip"
+        },
+        {
+          "hash": "11871b44ea831fdc147456e7678fb4b2",
+          "file": "_pillow.zip",
+          "size": "3427.03KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6439/_pillow.zip"
+        },
+        {
+          "hash": "39d4b14e48884938aae2810f5528f7ec",
+          "file": "_pymupdf.zip",
+          "size": "17864.19KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/DarwinX6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX64311.zip",
+      "hash": "c5ac727b8e10114aff78299d78acc2fb",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/LinuxX64311.zip",
+      "size": "14431.32KB",
+      "identify": "311-Linux-x86_64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "2afd41e4e65db46fa010a0ca5e71b415",
+          "file": "_docx.zip",
+          "size": "4978.37KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX64311/_docx.zip"
+        },
+        {
+          "hash": "0e63c6d26fa38a31c3b3bbe32bab6512",
+          "file": "_netifaces.zip",
+          "size": "998.51KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX64311/_netifaces.zip"
+        },
+        {
+          "hash": "7ef59f8e85134f3e3d39d2613c1dae62",
+          "file": "_pillow.zip",
+          "size": "4348.44KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX64311/_pillow.zip"
+        },
+        {
+          "hash": "6a5dd89ae57f22266f0c069d197f7c3c",
+          "file": "_pymupdf.zip",
+          "size": "18473.77KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX64311/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX6438.zip",
+      "hash": "7248c352dc8e53df3c4efa432996967a",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/LinuxX6438.zip",
+      "size": "14250.66KB",
+      "identify": "38-Linux-x86_64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "16af9d2e08e0333ee07153a43a195080",
+          "file": "_docx.zip",
+          "size": "5081.55KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6438/_docx.zip"
+        },
+        {
+          "hash": "0e63c6d26fa38a31c3b3bbe32bab6512",
+          "file": "_netifaces.zip",
+          "size": "998.51KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6438/_netifaces.zip"
+        },
+        {
+          "hash": "5e1e81c55c6b7a5e4418a430cdde4097",
+          "file": "_pillow.zip",
+          "size": "4340.18KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6438/_pillow.zip"
+        },
+        {
+          "hash": "393c56f365c2a13b39ebacf19e93149a",
+          "file": "_pymupdf.zip",
+          "size": "18451.29KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6438/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "LinuxX6439.zip",
+      "hash": "422b34aedfb636d25d5d6701ae6fb88e",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/LinuxX6439.zip",
+      "size": "13587.89KB",
+      "identify": "39-Linux-x86_64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "a04611b9418cc3a954df4567dcb384f0",
+          "file": "_docx.zip",
+          "size": "5167.10KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6439/_docx.zip"
+        },
+        {
+          "hash": "0e63c6d26fa38a31c3b3bbe32bab6512",
+          "file": "_netifaces.zip",
+          "size": "998.51KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6439/_netifaces.zip"
+        },
+        {
+          "hash": "b61453874426da16d683a971aec0dd08",
+          "file": "_pillow.zip",
+          "size": "4336.73KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6439/_pillow.zip"
+        },
+        {
+          "hash": "776745f7bd3d7131f6a65429b885afff",
+          "file": "_pymupdf.zip",
+          "size": "18449.05KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/LinuxX6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsAMD6438.zip",
+      "hash": "f5b5d4584b4ce423a18d3c8705c8b897",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/WindowsAMD6438.zip",
+      "size": "2234.03KB",
+      "identify": "38-Windows-AMD64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "4d478ef08484c03bb55de481b42a78c2",
+          "file": "_docx.zip",
+          "size": "3933.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6438/_docx.zip"
+        },
+        {
+          "hash": "a4a13b2c87e001ee13724c52b7a94a77",
+          "file": "_netifaces.zip",
+          "size": "134.89KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6438/_netifaces.zip"
+        },
+        {
+          "hash": "0c3b9dd1d6de8773fd83936c6fbc24a1",
+          "file": "_pillow.zip",
+          "size": "2494.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6438/_pillow.zip"
+        },
+        {
+          "hash": "591456c138268d909194016bd014f111",
+          "file": "_pymupdf.zip",
+          "size": "15647.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6438/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsAMD6439.zip",
+      "hash": "c0c54a9fb39e1c0396cfb47174e803ec",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/WindowsAMD6439.zip",
+      "size": "2209.92KB",
+      "identify": "39-Windows-AMD64",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "2cd536d0d8f12d5c6ebcc082019df03e",
+          "file": "_docx.zip",
+          "size": "3928.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6439/_docx.zip"
+        },
+        {
+          "hash": "a4a13b2c87e001ee13724c52b7a94a77",
+          "file": "_netifaces.zip",
+          "size": "134.89KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6439/_netifaces.zip"
+        },
+        {
+          "hash": "68e898a27559bc9a1cb0002f846dd1ea",
+          "file": "_pillow.zip",
+          "size": "2494.61KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6439/_pillow.zip"
+        },
+        {
+          "hash": "596071ce5b56bf088640a7861b324ce2",
+          "file": "_pymupdf.zip",
+          "size": "15647.94KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsAMD6439/_pymupdf.zip"
+        }
+      ]
+    },
+    {
+      "baseFolder": ".",
+      "file": "WindowsX8638.zip",
+      "hash": "73b5f611f724d97857c06219a1b71c4b",
+      "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/WindowsX8638.zip",
+      "size": "1916.36KB",
+      "identify": "38-Windows-x86",
+      "vendors": [
+        {
+          "hash": "a134afcf236fdef5d614717adc3e98b8",
+          "file": "_audio.zip",
+          "size": "61.65KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_audio.zip"
+        },
+        {
+          "hash": "0659196bf9ffba77d2901ecaa5463ad6",
+          "file": "_openpyxl.zip",
+          "size": "255.70KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_openpyxl.zip"
+        },
+        {
+          "hash": "9a10bc2da6caac26241380f23f7bb3ff",
+          "file": "_packaging.zip",
+          "size": "51.72KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/Common/_packaging.zip"
+        },
+        {
+          "hash": "0d9cb107e69c69c0b1bada11950baf05",
+          "file": "_docx.zip",
+          "size": "3622.94KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsX8638/_docx.zip"
+        },
+        {
+          "hash": "a4a13b2c87e001ee13724c52b7a94a77",
+          "file": "_netifaces.zip",
+          "size": "134.89KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsX8638/_netifaces.zip"
+        },
+        {
+          "hash": "eefa64fbf5887aec7865b33063f05431",
+          "file": "_pillow.zip",
+          "size": "2182.80KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsX8638/_pillow.zip"
+        },
+        {
+          "hash": "af07e6bf77b264dcefea1da439367fd9",
+          "file": "_pymupdf.zip",
+          "size": "13758.74KB",
+          "url": "https://cf.cdn.zhangsn.me/addon/vendor/WindowsX8638/_pymupdf.zip"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "file": "cloze.png",
+      "hash": "1739604d115bd2da760beff954a5aafd",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/cloze.png",
+      "size": "0.50KB"
+    },
+    {
+      "file": "image_cover.png",
+      "hash": "2c1f6ec5800694621e7bf631c9b7dce1",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/image_cover.png",
+      "size": "1.64KB"
+    },
+    {
+      "file": "selection.png",
+      "hash": "c2ff9a2452bfb5bd3b4703b579384d67",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/selection.png",
+      "size": "1.84KB"
+    },
+    {
+      "file": "simple_question.png",
+      "hash": "379c23fbd4aff5fa8dcab100f9bd8a60",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/simple_question.png",
+      "size": "2.25KB"
+    },
+    {
+      "file": "simple_question_parser.png",
+      "hash": "e4e19ecbfa45171c4881a53a320fca4d",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/simple_question_parser.png",
+      "size": "1.52KB"
+    },
+    {
+      "file": "task_fail.png",
+      "hash": "11e3030956543cc92d01606ec1558752",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/task_fail.png",
+      "size": "7.57KB"
+    },
+    {
+      "file": "task_finish.png",
+      "hash": "2ea6256eb4847aecd280880319697a59",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/task_finish.png",
+      "size": "9.22KB"
+    },
+    {
+      "file": "task_waiting.png",
+      "hash": "bd2b4282101c2ff809b5fefe947c48be",
+      "url": "https://cf.cdn.zhangsn.me/addon/resource/task_waiting.png",
+      "size": "6.76KB"
+    }
+  ],
+  "mainEntry": {
+    "baseFolder": ".",
+    "files": [
+      {
+        "file": "__init__.py",
+        "hash": "08d6f6a063a3c4c6d73c384d3e64796f",
+        "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/root-global/__init__.py",
+        "size": "6.21KB"
+      },
+      {
+        "file": "config.json",
+        "hash": "c3aebf9dd059c6dcfb3c381abfe12778",
+        "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/root-global/config.json",
+        "size": "1.05KB"
+      },
+      {
+        "file": "manifest.json",
+        "hash": "6d4bd337e6a43b6c75bf987bc2a8f1da",
+        "url": "https://cf.cdn.zhangsn.me/addon/8.2.12/root-global/manifest.json",
+        "size": "0.21KB"
+      }
+    ]
+  }
+}
